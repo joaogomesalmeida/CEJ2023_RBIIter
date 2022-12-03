@@ -1,0 +1,54 @@
+#+title: Casos Práticos
+#+Author: João Gomes de Almeida
+#+Date: 7 de dezembro de 2022
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil num:nil
+#+LATEX_COMPILER: xelatex
+
+* Caso prático
+
+*Aníbal*, nacional português, casou com *Bianca*, nacional espanhola, em 1994. Fixaram domicílio conjugal em Madrid, em 1995. Do casamento, nasceram dois filhos, ambos luso-espanhois: *Carlos*, nascido em 15 de dezembro de 2005, e *Dani*, nascido em agosto de 2009.
+
+*Aníbal* trabalha numa multinacional ligada ao turismo e às tecnologias da informação. Desde 2015 que exerce a sua atividade profissional ocasionalmente em Lisboa. Em março de 2021, fruto de uma promoção profissional, passou a exercer a sua atividade profissional de forma estável e permamente em Lisboa. Para o efeito, vive, durante os dias úteis da semana, num apartamento em Lisboa propriedade do seu pai e faz a sua vida social e profissional em Lisboa. As férias, dias feriados e fins de semanas passa-os em Madrid, na casa do casal, onde vivem *Bianca*, *Carlos* e *Dani*.
+
+No dia 1 de outubro de 2022, *Aníbal* intenta ação de divórcio sem consentimento do outro cônjuge junto dos tribunais portugueses. No dia 15 de outubro de 2022, *Bianca* intenta ação de divórcio junto dos tribunais espanhois e, contestando a ação intentada por *Aníbal*, alega que os tribunais portugueses são internacionalmente incompetentes, pois os cônjuges (e os seus dois filhos) têm residência habitual em Madrid. Por sua vez, *Aníbal*, contestando a ação intentada junto dos tribunais espanhois, alega que a mesma não pode prosseguir enquanto não for proferida decisão de mérito na ação por si intentada junto dos tribunais portugueses.
+
+*Questão 1:* Determine se os tribunais portugueses são internacionalmente competentes para julgar a ação intentada por *Aníbal* e como deve atuar o tribunal espanhol relativamente à ação intentada por *Bianca*.
+
+Admita agora que *Aníbal* pede adicionalmente aos tribunais portugueses a regulação do exercício das responsabilidades parentais relativas a *Carlos* e *Dani*. Junta um documento particular, assinado por ele e *Bianca*, datado de 1 de junho de 2022, no qual consta o seguinte: "*Aníbal* e *Bianca* acordam, de forma livre e esclarecida, em atribuir competência internacional aos tribunais portugueses para decidir sobre a responsabilidade parental relativa aos seus dois filhos, *Carlos* e *Dani*, com expressa renúncia de qualquer outro".
+
+*Questão 2:* Os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais de *Carlos* e *Dani*?
+
+*Questão 3:* /Quid iuris/ se já estivesse pendente uma ação de regulação do exercício das responsabilidades parentais de *Carlos* e *Dani* nos tribunais espanhois?
+
+Admita agora que o tribunal português considerou-se internacionalmente competente. *Bianca*, apesar de regularmente citada, decide não participar no processo.
+
+*Questão 4:* O tribunal português deve ouvir as crianças, *Carlos* e *Dani*? Em caso afirmativo, como deve proceder?
+
+O tribunal português profere decisão em 2 de dezembro de 2022, decretando o divórcio e regulando as responsabilidades parentais: confiou a guarda das crianças a *Bianca* e regulou o direito de visita de *Aníbal*, os quais incluem contactos pela /Internet/ e por telefone, bem como encontros pessoais com as crianças, em Espanha, dois fins de semana por mês.
+
+*Questão 5:* Aníbal requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º quanto ao direito de visita. Deve o tribunal emitir essa certidão?
+
+*Bianca* pede
+
+
+
+
+
+* Caso n.º 2
+
+*André* e *Bela* são nacionais portugueses, casados entre si, e fixaram residência conjugal em França. Têm uma filha, *Cristina*, cidadã luso-francesa, com 14 anos de idade.
+
+Com o acordo de *André*, em agosto de 2022 *Bela* muda a sua residência e a da *Cristina* para a cidade de Lisboa, onde poderá contar com o apoio da sua família alargada. Em outubro de 2022, *André* intenta ação de regulação do exercício das responsabilidades parentais de *Cristina* junto dos tribunais franceses. Apesar de citada, *Bela* não compareceu perante o tribunal francês. O tribunal francês não ouviu *Cristina*. O tribunal francês proferiu decisão em que: (i) fixou a residência de *Cristina* em França; (ii) atribuíu o direito de guarda a *André*; e (iii) atribuiu um direito de visita a *André*, a vigorar até que ele tenha a efetiva guarda de *Cristina*, nos termos do qual *Cristina* passará com ele o fim de semana, quinzenalmente. Mais estabeleceu que a parte da decisão relativa ao direito de visita era executória independentemente de qualquer recurso.
+
+*André* apresenta um requerimento de execução da decisão francesa junto do Juízo de Família e Menores de Lisboa, relativo à parte da decisão que lhe atribuiu o direito de visita. Fez acompanhar esse pedido Esse  acompanhado da certidão a que se refere o artigo 47.º.
+
+*Bela* alega que o tribunal português não deve dar execução à decisão porque *Cristina* não foi ouvida.
+
+*Questão 1:* Diga se há ou não fundamento para recusar a execução da decisão francesa, na parte relativa ao direito de visita.
+
+Após o trânsito em julgado da decisão francesa, *André* vem requerer junto do tribunal de família e menores de Lisboa a execução da decisão francesa, na parte relativa ao direito de guarda e fixação de residência.
+
+*Bela* opõe-se alegando (i) a incompetência internacional do tribunais franceses; e (ii) a não audição de *Cristina*.
+
+*Questão 2:* Deve ou não a decisão francesa ser executada?
