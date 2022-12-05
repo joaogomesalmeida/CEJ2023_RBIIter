@@ -102,7 +102,7 @@ A opinião do TJ parece ser a de que *Aníbal* teria residência habitual em Lis
 61      Embora esses elementos deixem a priori pensar que os requisitos estabelecidos no artigo 3.º, n.º 1, alínea a), sexto travessão, do Regulamento n.º 2201/2003 podem estar preenchidos, incumbe, todavia, ao órgão jurisdicional de reenvio verificar se todas as circunstâncias de facto específicas do caso concreto permitem efetivamente considerar que o interessado transferiu a sua residência habitual para o território do Estado-Membro a que pertence o referido órgão jurisdicional.
 #+end_quote
 
-Aceitando que *Aníbal tinha residência habitual em Lisboa, os tribunais portugueses dever-se-iam considerar internacionalmente competentes para julgar a ação.
+Aceitando que *Aníbal* tinha residência habitual em Lisboa, os tribunais portugueses dever-se-iam considerar internacionalmente competentes para julgar a ação.
 
 *4. Litispendência e ações dependentes*. O regime de litispendência e ações dependentes em matéria de processos matrimoniais encontra-se previsto nos n.º 1 e n.º 3 do artigo 20.º. Este regime só é diretamente aplicável às situações de litispendência ou de ações dependentes de cariz transnacional envolvendo apenas tribunais de Estados-Membros.
 
@@ -117,6 +117,122 @@ Resulta da redação do preceito que não existe uma hierarquização entre as a
 *Conclusão final:* caso se considere que *Aníbal* tem residência habitual em Lisboa, os tribunais portugueses seriam internacionalmente competentes e os tribunais espanhois deveriam suspender a instância no processo iniciado junto deles por *Bianca* até que os tribunais portugueses se declarassem internacional competentes, momento em que os tribunais espanhois se deveriam declarar internacionalmente incompetentes para julgar a ação apresentada por *Bianca*.
 
 ** Questão 2: Os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais de *Carlos* e *Dani*?
+
+*1. Revisitação dos âmbitos de aplicação*. Na questão anterior analisaram-se os âmbitos de aplicação tendo por base um litígio relativo a ações matrimoniais. Nesta questão introduz-se o problema das responsabilidades parentais, o que impõe uma reanálise (pelo menos de alguns) dos âmbitos de aplicação do Regulamento.
+
+O âmbito de aplicação espacial e territorial mantêm-se sem alterações substantivas: a situação continua a ter incidência transfronteiriça e coloca-se perante tribunais portugueses, pelo que se suscita no território de um Estado-Membro vinculado à aplicação do Regulamento.
+
+O Regulamento regula matérias distintas, embora conexas: as ações matrimoniais e as responsabilidades parentais dos filhos. Agora há uma extensão da matéria em litígio, mas ela é igualmente abrangida pelo âmbito de aplicação material, nos termos do artigo 1.º, n.º 1, al. /b)/, e n.º 2, al. /a)/.
+
+Chama-se a atenção para os conceitos autónomos de responsabilidade parental, direito de guarda e direito de visita definidos no artigo 2.º, n.º 2, 7), 9) e 10).
+
+Chama-se também a atenção para o facto de Carlos tem mais de 16 anos de idade (fará 17 no dia 15 de dezembro de 2022). Ainda assim, as normas sobre responsabilidade parental aplicam-se pois considera-se criança qualquer pessoa com menos de 18 anos (art. 2.º, n.º 2, 6)), mesmo que fosse emancipado (considerando 17).
+
+O âmbito de aplicação material está preenchido.
+
+Pode suscitar dúvidas o preenchimento do âmbito de aplicação temporal, uma vez que o acordo celebrado entre os progenitores relativo à competência dos tribunais portugueses data do dia 1 de junho de 2022, ou seja, o acordo foi celebrado em data /anterior/ a 1 de agosto de 2022.
+
+Ora o artigo 100.º, n.º 1, estabelece que o Regulamento é aplicável apenas às ações intentadas, aos atos autênticos formalmente exarados e aos acordos registados a partir de 1 de agosto de 2022.
+
+*Pergunta aos formandos:* está ou não está preenchido o âmbito de aplicação temporal?
+
+*Resposta:* Está. O facto jurídico relevante é a data da instauração da ação e não a data da celebração do pacto de jurisdição.
+
+Isso mesmo resulta de forma mais clara, pensa-se, da definição de "ato autêntico" e "acordo registado", que constam do art. 2.º, n.º 2, 2) e 3).
+
+#+begin_quote
+2)   «Ato autêntico»: um documento formalmente exarado ou registado como ato autêntico em qualquer Estado-Membro nas matérias abrangidas pelo âmbito de aplicação do presente regulamento e cuja autenticidade:
+
+a) esteja associada à assinatura e ao conteúdo do ato, e
+
+b) tenha sido confirmada por uma autoridade pública ou outra autoridade habilitada para esse efeito. Os Estados-Membros devem comunicar essas autoridades à Comissão nos termos do artigo 103.o;
+
+3)   «Acordo», para efeitos do capítulo IV: um documento que não é um ato autêntico, tenha sido celebrado pelas partes em matérias abrangidas pelo âmbito de aplicação do presente regulamento e tenha sido registado por uma autoridade pública tal como comunicado por um Estado-Membro à Comissão nos termos do artigo 103.o para esse efeito;
+#+end_quote
+
+e também do considerando 14:
+
+#+begin_quote
+(14) De acordo com a jurisprudência do Tribunal de Justiça, o termo «tribunal» deverá ser interpretado em sentido lato, de modo que abranja também as autoridades administrativas ou outras autoridades como os notários que, em certas questões matrimoniais ou questões de responsabilidade parental, exercem a sua competência. Qualquer acordo aprovado pelo tribunal na sequência da análise do mérito em conformidade com o direito e os procedimentos nacionais deverá ser reconhecido ou aplicado como uma «decisão». *Outros acordos que adquiram um efeito jurídico vinculativo no Estado-Membro de origem na sequência da intervenção formal de uma autoridade pública ou de outra autoridade tal como comunicado por um Estado-Membro à Comissão para esse efeito, deverão produzir efeitos noutros Estados-Membros de acordo com as disposições específicas do presente regulamento sobre atos autênticos e acordos*. O presente regulamento não deverá permitir a livre circulação de simples acordos privados. No entanto, *os acordos que não sejam nem uma decisão nem um ato autêntico, mas que tenham sido registados por uma autoridade pública competente para o fazer deverão circular*. Essas autoridades públicas podem incluir os notários que efetuam o registo dos acordos, mesmo quando estes exercem uma profissão liberal. (negritos aditados)
+#+end_quote
+
+*2. A admissibilidade de pactos de jurisdição em matéria de responsabilidade parental: considerações gerais*. À semelhança do Regulamento Bruxelas II /bis/, permite-se, no art. 10.º que celebração de pactos de jurisdição que atribuem competência internacional aos tribunais de determinado Estado-Membro em matéria de responsabilidade parental. O art. 10.º é uma evolução face ao artigo 12.º do Regulamento Bruxelas II /bis/, já que prevê uma regulamentação /unitária/ para a admissibilidade dos pactos de jurisdição, deixando de distinguir entre pactos celebrados no contexto de ações matrimoniais e pactos celebrados no contexto de outras ações.
+
+*3. Condições para o estabelecimento de competência através de um pacto: 1.ª condição cumulativa: ligação estreita da criança ao Estado-Membro designado (art. 10.º, n.º 1, al. /a)/)*.
+
+O pacto só será admissível quando haja uma ligação estreita entre a criança e o Estado-Membro designado no pacto. No artigo 10.º, n.º 1, al. /a)/ indica-se uma lista /exemplificativa/ de situações em que há um conexão estreita.
+
+No nosso caso, verifica-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa) e, dependendo do modo como foi concretizada a residência habitual de *Aníbal*, poderá existir uma outra ligação (um dos progenitores tem residência habitual em Portugal).
+
+*4. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. /b)/)*. Resulta das duas subalíneas do artigo 10.º, n.º 1, al. /b)/, que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo /ou/ pode ser efetuado no decurso e dentro do processo.
+
+*Validade formal do acordo:* o art. 10.º, n.º 2, estabelece que, no caso de acordos extrajudiciais, o pacto deve ser celebrado por escrito, datado e assinado. No nosso caso, estes requisitos de forma uniformes estão cumpridos.
+
+Chama-se, no entanto, a atenção para o considerando n.º 23, no qual se afirma que:
+
+#+begin_quote
+(...) Antes de exercer a sua competência com base num acordo ou numa aceitação relativos à atribuição de competência, o tribunal deverá analisar se o referido acordo ou aceitação teve por base uma escolha livre e informada das partes em causa e não é resultado de uma das partes ter tirado partido da situação ou posição fraca da outra parte. (...)
+#+end_quote
+
+Se o acordo fosse efetuado durante e dentro do processo, as regras formais que devem ser seguidas são as do Estado-Membro do foro (art. 10.º, n.º 2 e considerando n.º 23), relevando-se que o tribunal deve assegurar que todas as partes foram informadas do seu direito de não aceitar a competência (art. 10.º, n.º 2). Trata-se de uma obrigação algo semelhante à que existe no artigo 26.º, n.º 2, do Regulamento Bruxelas I /bis/.
+
+*Identificação das partes:* o acordo deve ser celebrado pelas pessoas que são (ou serão) partes no processo. Regra geral, serão os progenitores das crianças. Podem também ser outras pessoas que sejam os titulares do exercício das responsabilidades parentais (por exemplo, no caso de colocação de crianças numa instituição). Todavia, há que prestar atenção à jurisprudência do TJ proferida em sede de Bruxelas II /bis/:
+
+- No Acórdão de 31 de maio de 2018, /Valcheva/, C-335/17, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-335%252F17&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=191678][EU:C:2018:359]], o TJ concluiu que os avós a quem foi atribuído um direito de visita eram titulares da responsabilidade da criança;
+
+- No Acórdão de 19 de abril de 2018, /Saponaro/, C-565/16, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-565%252F16&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=nl&lg=&page=1&cid=192583][EU:C:2018:265]], o TJ referiu, quando ao procurador público grego:
+
+  #+begin_quote
+29      Há, portanto, que considerar que um procurador que, segundo o direito nacional, tem a qualidade de parte no processo em ações como a que está em causa no processo principal e que representa o interesse do menor, é uma parte no processo, na aceção do artigo 12.°, n.° 3, alínea b), do Regulamento n.° 2201/2003. Por conseguinte, a sua oposição a uma extensão de competência não pode ser ignorada.
+  #+end_quote
+
+*Pergunta aos formandos:* atendendo à jurisprudência do caso /Saponaro/ como deve ser caracterizada a participação do Ministério Público nos processos de respnsabilidade parental que correm termos nos tribunais portugueses? Deve ser considerado, ou não, uma parte de pleno direito?
+
+A resposta a esta questão é muito importante, porque nos termos do artigo 10.º, n.º 1, al. /b)/, e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
+
+*5. 3.ª condição cumulativa: o exercício da competência pelo tribunal designado no pacto tem de ser /no superior interesse da criança/ (art. 10.º, n.º 1, al. /c)/)*. Em primeiro lugar, chama-se a atenção para o considerando 19:
+
+#+begin_quote
+As regras de competência em matéria de responsabilidade parental *são definidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse*. *Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do artigo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»)*, aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
+#+end_quote
+
+O artigo 24.º da Carta estabelece:
+
+#+begin_quote
+Artigo 24.º
+*Direitos das crianças*
+1. As crianças têm direito à proteção e aos cuidados necessários ao seu bem-estar. Podem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade.
+2. Todos os atos relativos às crianças, quer praticados por entidades públicas, quer por instituições privadas, terão primacialmente em conta o interesse superior da criança.
+3. Todas as crianças têm o direito de manter regularmente relações pessoais e contactos diretos com ambos os progenitores, exceto se isso for contrário aos seus interesses.
+#+end_quote
+
+O artigo 3.º da CNUDC estabelece:
+
+#+begin_quote
+Artigo 3.º
+1. Todas as decisões relativas a crianças, adoptadas por instituições públicas ou privadas de protecção social, por tribunais, autoridades administrativas ou órgãos legislativos, terão primacialmente em conta o interesse superior da criança.
+2. Os Estados Partes comprometem-se a garantir à criança a protecção e os cuidados necessários ao seu bem-estar, tendo em conta os direitos e deveres dos pais, representantes legais ou outras pessoas que a tenham legalmente a seu cargo e, para este efeito, tomam todas as medidas legislativas e administrativas adequadas.
+3. Os Estados Partes garantem que o funcionamento de instituições, serviços e estabelecimentos que têm crianças a seu cargo e asseguram a sua protecção seja conforme às normas fixadas pelas autoridades competentes, nomeadamente nos domínios da segurança e saúde, relativamente ao número e qualificação do seu pessoal, bem como quanto à existência de uma adequada fiscalização.
+#+end_quote
+
+O superior interesse da criança na jurisprudência do TJ:
+
+- No Acórdão de 12 de novembro de 2014, /L/, C-656/13, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-656%252F13&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=en&lg=&page=1&cid=197974][EU:C:2014:2364]], o TJ esclareceu que a análise do superior interesse da criança tem de ser casuística:
+
+  #+begin_quote
+  58      Importa acrescentar que, quando é submetido um processo a um tribunal nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, *o superior interesse da criança só pode ser assegurado através de uma análise, em cada caso concreto, da questão de saber se a extensão de competência pretendida é compatível com esse superior interesse*, e que uma extensão de competência, nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, apenas produz efeitos para o processo específico submetido ao tribunal cuja competência é objeto de extensão (v., neste sentido, acórdão E, EU:C:2014:2246, n.os 47 e 49). (negritos aditados)
+  #+end_quote
+
+- No Acórdão de 19 de abril de 2018, /Saponaro/, C-565/16, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-565%252F16&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=nl&lg=&page=1&cid=192583][EU:C:2018:26]], esclareceu que a aceitação da competência não deve ser suscetível de ter um impacto negativo na situação do menor:
+
+  #+begin_quote
+  No Acórdão de 27 de outubro de 2016, D. (C-428/15, EU:C:2016:819, n.º 58), relativo à interpretação do artigo 15.º do Regulamento n.º 2201/2013, consagrado à transferência para um tribunal mais bem colocado para apreciar a ação, o Tribunal de Justiça concluiu que a exigência de que a transferência sirva o superior interesse da criança implica que o tribunal competente se certifique, à luz das circunstâncias concretas do processo, de que a transferência equacionada deste último para um tribunal de outro Estado-Membro não é suscetível de ter um impacto negativo na situação do menor.
+  #+end_quote
+
+*Pergunta para os formandos:* a aceitação da competência pelo tribunal português acarreta o prejuízo para a situação do menor?
+
+A resposta a esta questão deve ser dada no caso concreto e é decisiva para a aceitação da competência. O pacto só produzirá os seus efeitos se o tribunal português considerar que o exercício da competência que lhe é atribuída pelo pacto respeita o superior interesse criança. Em suma: o tribunal tem uma palavra decisiva a dizer quanto a admissibilidde do pacto.
+
 ** Questão 3: /Quid iuris/ se já estivesse pendente uma ação de regulação do exercício das responsabilidades parentais de *Carlos* e *Dani* nos tribunais espanhois?
 
 ** Questão 4: O tribunal português deve ouvir as crianças, *Carlos* e *Dani*? Em caso afirmativo, como deve proceder?
