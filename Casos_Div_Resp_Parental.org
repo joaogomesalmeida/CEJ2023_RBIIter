@@ -318,4 +318,64 @@ Nestes casos, pode ser necessário recorrer à cooperação judiciária, mais pr
 Sem pretensão de ser muito exaustivo, assinala-se que pode ser feito um pedido para a audição ser efetuada pelo tribunal requerido (eventualmente com a participação das partes e de um representante do tribunal - arts. 12.º a 14.º) /ou/, em alternativa, um pedido para a audição ser feita diretamente pelo tribunal português, através de videoconferência (art. 20.º). A principal diferença prática entre os meios indiretos e os meios diretos tem que ver com a coercividade: apenas nos primeiros se pode recorrer a medidas coercivas; no entanto, considerando que isto é um direito das crianças e não uma obrigação, parece-me duvidoso o recurso a meios coercivos para ultrapassar uma vontade /das crianças/ de não participarem no processo.
 
 ** Questão 5: *Aníbal* requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º. Deve o tribunal emitir essa certidão?
+
+*1. Decisões "privilegiadas"*. Há dois regimes de reconhecimento diferentes. O "normal" de reconhecimento automático (art. 39.º, n.º 1) e supressão de /exequatur/ (art. 34.º, n.º 1) e um para dois tipos de decisões "privilegiadas" (art. 42.º), em que são ainda mais limitados os fundamentos de recusa de reconhecimento, executoriedade e execução (art. 50.º).
+
+As decisões privilegiadas são de dois tipos: (i) decisões que concedam direitos de visita; e (ii) uma decisão sobre o mérito relativa ao direito de guarda, proferida na sequência de uma decisão de recusa do regresso da criança ilicitamente deslocada ou retida (art. 42.º).
+
+No nosso caso, temos uma decisão que, parcialmente, é uma decisão privilegiada, uma vez que concede a *Aníbal* direitos de visita.
+
+*2. Condições para utilizar o regime de reconhecimento e execução das decisões privilegiadas*. É importante salientar que existem condições para se poder recorrer ao regime especial de reconhecimento das decisões privilegiadas. Estas constam do artigo 47.º, n.º 3:
+
+#+begin_quote
+a. O tribunal só emite a certidão se estiverem preenchidas as seguintes condições:
+
+b. Todas as partes implicadas tiverem tido a oportunidade de ser ouvidas;
+
+c. A criança tiver tido a oportunidade de expressar a sua opinião em conformidade com o artigo 21.º;
+
+d. A decisão tiver sido proferida à revelia e:
+
+   i) a parte revel tiver sido citada ou notificada do ato introdutório da instância ou ato equivalente em tempo útil e de forma a poder deduzir a sua defesa, ou
+
+   ii) se estiver estabelecido que a parte revel aceitou a decisão de forma inequívoca.
+#+end_quote
+
+Diz-se no caso que a *Bianca* apesar de regularmente citada, decidiu não participar. Isto significa que estamos dentro da al. /d)/, subal. /i)/, não sendo óbice à emissão da certidão.
+
+Terá de ter sido dada oportunidade às crianças de expressar a sua opinião, caso contrário não se poderá recorrer a este regime privilegiado.
+
+Salienta-se que é opção da parte utilizar este regime especial ou o regime normal. Embora este regime seja mais vantajoso, nada impede a parte de pedir o reconhecimento e execução segundo o regime normal.
+
+De igual modo também é possível recorrer ao regime normal de reconhecimento e execução quando não estejam previstas as condições para utilizar o regime especial.
+
+*3. Conclusão*. Parece que o tribunal português deve emitir a certidão. Esta só pode ser atacada junto dos tribunais portugueses e com os fundamentos previstos no artigo 48.º (art. 47.º, n.º 6).
+
+
 ** Questão 6: Admitindo que a certidão foi emitida e que *Aníbal* requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de *Bianca*, que entende que deve ser recusada a execução da decisão portuguesa porque:
+
+*1. Análise dos fundamentos de recusa do regime normal e do regime especial*. Os fundamentos de recusa do regime normal estão previstos no artigo 39.º. Os fundamentos de recusa do regime especial estão previstos no artigo 50.º.
+
+De seguida analisam-se as alegações de *Bianca*, à luz dos dois regimes de reconhecimento e execução.
+
+*2. Bianca não participou na mesma e a decisão obsta ao exercício das minhas responsabilidades parentais*. /Regime especial:/ alegação irrelevante, porque não é fundamento de recusa (art. 50.º). Poderia ser motivo de impugnação da certidão, porque poderia estar em causa uma das condições necessárias para emissão da certidão (art. 48.º, n.º 2). /Regime normal:/ poderiam estar em causa dois fundamentos de recusa no regime normal (art. 39.º, al. /b)/ e /c)/).
+
+Em qualquer caso, a alegação seria improcedente, porque *Bianca* foi regularmente citada, logo teve oportunidade para apresentar a sua defesa e para ser ouvida.
+
+*3. Carlos e Dani não foram ouvidos*. Situação semelhante à anterior. /Regime especial:/ alegação irrelevante, porque não é fundamento de recusa (art. 50.º). Poderia ser motivo de impugnação da certidão, porque poderia estar em causa uma das condições necessárias para emissão da certidão (art. 48.º, n.º 2). /Regime normal:/ poderiam estar em causa dois fundamentos de recusa no regime normal (art. 39.º, n.º 2).
+
+A alegação /só/ seria procedente /se/ o tribunal português /não tivesse dado oportunidade/ às crianças de serem ouvidas. Não é decisivo que as crianças não tenham sido ouvidas; decisivo é que tenham (ou não) tido oportunidade de serem ouvidas.
+
+No regime normal assinala-se a diferente redação do artigo 39.º, n.º 2. Neste preceito estabelece-se que o tribunal do Estado-Membro requerido /pode/ recusar (poder discricionário); nos casos do artigo 39.º, n.º 1, o tribunal do Estado-Membro requerido /deve/ recusar (vinculatividade).
+
+*4. A decisão não foi tomada atendendo ao superior interesse da criança*. Regime especial: alegação irrelevante, não é fundamento de recusa. Regime normal: pode ser relevante, mas a alegação é incompleta. Só será fundamento de recusa se o reconhecimento for manifestamente contrário à ordem pública do Estado-Membro requerido, tendo em conta o superior interesse da criança (art. 39.º, n.º 1, al. /a)/).
+
+*5. A decisão é incompatível com a decisão proferida pelos tribunais
+espanhois de 7 de dezembro de 2022, que concedeu apenas a Aníbal o contacto com as crianças por telefone e Internet e um fim de semana a cada dois meses*. A alegação é fundamento de recusa quer no regime especial (art. 50.º), quer no regime normal (art. 39.º, n.º 1, al. /d)/). Esta alegação seria sempre procedente e seria fundamento de recusa. A lógica é simples: entende-se que uma decisão posterior é mais conforme o superior interesse da criança, pois atendeu às circunstâncias mais atuais da criança.
+
+*7. Fundamentos de suspensão ou recusa adicionais*. Para além do artigo 39.º (regime normal) e do art. 50.º (regime especial), há ainda a possibilidade de suspender ou recusar a execução de decisões em matéria de reponsabilidade parental:
+
+- Quando execução expusesse a criança a um grave risco de danos físicos ou psicológicos devido a impedimentos temporários (suspensão) ou de carácter duradouro (recusa) que tenham surgido depois de a decisão ter sido proferida ou em virtude de qualquer outra alteração significativa das circunstâncias (art. 56.º, n.º 4 a 6);
+- Com base no restante Direito vigente no Estado-Membro de execução, desde que este não seja incompatível com os artigos 41.º, 50.º e 56.º (art. 57.º).
+
+*6. Conclusão*. Por força da última alegação, a execução da decisão portuguesa deveria ser recusada pelos tribunais espanhois.
