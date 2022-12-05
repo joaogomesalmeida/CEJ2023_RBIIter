@@ -1,4 +1,4 @@
-#+title: Casos Práticos
+#+title: Direito Internacional da Família
 #+Author: João Gomes de Almeida
 #+Date: 7 de dezembro de 2022
 #+LANGUAGE: pt
@@ -38,3 +38,87 @@ O tribunal português profere decisão em 2 de dezembro de 2022, decretando o di
 (iii) A decisão não foi tomada atendendo ao superior interesse da criança;
 
 (iv) A decisão é incompatível com a decisão proferida pelos tribunais espanhois de 7 de dezembro de 2022, que concedeu apenas a *Aníbal* o contacto com as crianças por telefone e /Internet/ e um fim de semana a cada dois meses.
+
+* Tópicos de resolução
+** Questão 1: Determine se os tribunais portugueses são internacionalmente competentes para julgar a ação intentada por *Aníbal* e como deve atuar o tribunal espanhol relativamente à ação intentada por *Bianca*.
+
+*1. Âmbitos de aplicação*. São quatro os âmbitos de aplicação do Regulamento Bruxelas II /ter/ (doravante os considerandos e artigos indicados sem indicação de fonte pertencem a este Regulamento).
+
+/Em primeiro lugar/, há que verificar se a situação em litígio tem /incidência transfronteiriça/ (cf. considerandos 2 a 4). Nesta questão estamos perante uma ação de divórcio em que os cônjuges têm nacionalidade diferentes (portuguesa e espanhola). Isso é quanto basta para o litígio ser transnacional ou, nas expressões do Regulamento, implicar "um elemento internacional" (considerando 2) ou ter "implicações transfronteiriças" (considerandos 3 e 4).
+
+/Em segundo lugar/, há que verificar se o âmbito de aplicação territorial, ou em razão do território, se encontra preenchido. O Regulamento é aplicável no território de todos os Estados-Membros, com exceção da Dinamarca (considerandos 95 e 96). Como a ação é intentada junto dos tribunais portugueses este âmbito de aplicação está preenchido.
+
+/Em terceiro lugar/, há que verificar o âmbito de aplicação temporal. Nos termos do artigo 100.º, n.º 1, o Regulamento é aplicável apenas às ações intentadas, aos atos autênticos formalmente exarados e aos acordos registados a partir de 1 de agosto de 2022.
+
+A determinação da data em que foi instaurada uma ação deve ser feita de acordo com o artigo 17.º. Temos um conceito autónomo tripartido. Há que olhar para o Direito processual do Estado-Membro do foro e determinar quando se considera intentada uma ação (neste caso de divórcio). No Direito processual português ela considera-se intentada na data em que foi apresentada ao tribunal a respetiva petição (art. 259.º do CPC). Logo, essa é a data relevante, nos termos do artigo 16.º, al. /a)/. A ação foi intentada em /1 de outubro de 2022/, logo depois de 1 de agosto de 2022. O âmbito de aplicação temporal está preenchido.
+
+/Em quarto lugar/, há que verificar o âmbito de aplicação material. Para isso há que analisar o artigo 1.º. Nos termos do artigo 1.º, n.º 1, al. /a)/, o Regulamento aplica-se às ações matrimoniais (divórcio, separação judicial e anulação do casamento). Apesar de o Regulamento não definir os conceitos de casamento e divórcio, não há dúvidas que neste caso estamos perante um casamento "tradicional" (entre pessoas de sexo diferente) e perante uma ação que visa dissolver esse caso casamento.
+
+*Nota extra:* discutiu-se, no Regulamento Bruxelas II /bis/ (o anterior), se o conceito de casamento aí perfilhado abrangia os casamentos entre pessoas do mesmo sexo. Neste novo Regulamento a utilização da expressão neutra "cônjuges" (cf. ponto 5.1 do Anexo II e ponto 6.1 do Anexo VII) quando antes se utilizavam as expressões "esposo" e "esposa" aponta no sentido de que o legislador pretendeu abranger os casamentos entre pessoas do mesmo sexo.
+
+Verificados todos os âmbitos de aplicação, o Regulamento é aplicável.
+
+*2. Regras de competência internacional em matéria matrimonial. Considerações gerais*. As regras de competência internacional estão previstas nos arts. 3.º a 6.º. Não estamos aqui perante uma conversão de uma separação em divórcio, nem foi efetuado pedido reconvencional, razão pela qual não são aplicáveis nem o art. 5.º, nem o art. 4.º.
+
+A nova formulação do art. 6.º - que funde os anteriores arts. 6.º e 7.º do Regulamento Bruxelas II /bis/ - é, parece-nos, melhor e traduz de forma mais perfeita aquela que era a posição da doutrina maioritária e da jurisprudência do TJ sobre estes dois preceitos do Regulamento Bruxelas II /bis/.
+
+Só é possível recorrer a outras normas (que não os arts. 3.º a 5.º) de competência internacional vigentes no Estado-Membro do foro (no caso Portugal) quando: (i) os arts. 3.º a 5.º não atribuem competência internacional a nenhum tribunal de qualquer Estado-Membro; e (ii) o cônjuge requerido não tem nacionalidade de um outro Estado-Membro ou, no caso da Irlanda, domicílio. No caso sob análise, nunca seria possível recorrer às normas de competência internacional de fonte interna (CPC) pois: os tribunais espanhois seriam competentes nos termos do artigo 3.º, al. /a)/, subal. /iii)/; e o cônjuge requerido (Bianca) tem nacionalidade de outro Estado-Membro (Espanha).
+
+Conclusão: a competência internacional dos tribunais portugueses terá de estabelecer-se nos termos do art. 3.º; caso contrário, terão de se declarar incompetentes nos termos do art. 18.º.
+
+*3. Concretização da residência habitual de Aníbal*. A questão que se coloca é a de saber qual é a residência habitual de *Aníbal*, uma vez que:
+
+#+begin_quote
+Em março de 2021, fruto de uma promoção profissional, passou a exercer a sua atividade profissional de forma estável e permamente em Lisboa. Para o efeito, vive, durante os dias úteis da semana, num apartamento em Lisboa propriedade do seu pai e faz a sua vida social e profissional em Lisboa. As férias, dias feriados e fins de semanas passa-os em Madrid, na casa do casal, onde vivem *Bianca*, *Carlos* e *Dani*.
+#+end_quote
+
+*Pergunta aos formandos:* será que *Aníbal* tem duas residências habituais: uma pessoal, em Madrid (Espanha), e outra profissional, em Lisboa (Portugal)?
+
+A questão de saber se um cônjuge poderia ter, num dado momento, mais de um residência habitual já foi colocada ao TJ. No Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]], em sede do Regulamento Bruxelas II /bis/, o TJ respondeu negativamente, concluindo que, num dado momento, uma pessoa só pode ter uma residência habitual.
+
+Em síntese, foram estes os argumentos do TJ:
+
+- Nenhuma das disposições do Regulamento Bruxelas II /bis/ emprega o conceito de residência habitual na forma plural.
+
+- A jurisprudência do TJ sobre o conceito de residência habitual (do menor) acentua a residência habitual como centro permanente onde se situam os interesses da pessoa. Conclui que a ideia de centro de interesses não aponta no sentido de o conceito residência habitual poder suscitar problemas de conteúdo múltiplo, isto é, de permitir que, em simultâneo, uma pessoa tenha mais do que uma residência habitual.
+
+- O TJ entende que com as normas atribuitivas de competência internacional em matéria de divórcio, separação judicial e anulação do casamento previstas no artigo 3.º, n.º 1, alínea /a)/, visa-se assegurar um equilíbrio entre a mobilidade das pessoas no interior da União Europeia e a segurança jurídica. O TJ considera que admitir a possibilidade de um cônjuge ter mais de uma residência habitual em simultâneo acarretaria o risco de a a competência internacional determinada, em última análise, não pelo critério da «residência habitual», mas por um critério baseado na simples residência de um ou de outro dos cônjuges, o que infringiria o Regulamento Bruxelas II /bis/. O risco à previsibilidade jurídica seria acrescido por outros regulamentos atribuírem competências noutras matérias, como obrigações alimentares ou regimes matrimoniais, ao tribunal internacionalmente competente para julgar a ação de divórcio, separação judicial ou anulação do casamento.
+
+- Por fim, considerou o TJ que a sua anterior jurisprudência em matéria de plurinacionalidade comum dos cônjuges (Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, [[http://curia.europa.eu/juris/liste.jsf?language=pt&jur=C,T,F&num=C-168/08&td=ALL][EU:C:2009:474]]) não aponta em sentido contrário, pois a conclusão de que o conceito de nacionalidade consagrado no Regulamento Bruxelas II /bis/ não se encontra limitado à /nacionalidade efetiva/ não é relevante para a interpretação do conceito de residência habitual consagrado no artigo 3.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /bis/.
+
+*Nota:* perguntar ao formandos se concordam com a argumentação do TJ.
+
+Seguindo a jurisprudência do TJ, *Aníbal* /não/ tem duas residência habituais. Há agora que determinar se ele têm residência habitual em Madrid ou em Lisboa. A consequência desta opção é relevantíssima: se *Aníbal* tiver residência habitual em Madrid, então apenas os tribunais espanhois são internacionalmente competentes (art. 3.º, al. /a)/, subal. /i)/) e os tribunais portugueses devem oficiosamente declarar-se incompetentes (art. 18.º); se *Aníbal* tiver residência habitual em Portugal, então os tribunais portugueses também são internacionalmente competentes para julgar a ação de divórcio (art. 3.º, al. /a)/, subal. /vi)/).
+
+*Pergunta:* perguntar aos formandos para concretizar a residência habitual de *Aníbal*.
+
+A opinião do TJ parece ser a de que *Aníbal* teria residência habitual em Lisboa:
+
+#+begin_quote
+59      No presente processo, como resulta dos autos de que o Tribunal de Justiça dispõe, é pacífico que IB, nacional do Estado-Membro do órgão jurisdicional nacional no qual intentou a ação, preenchia o requisito de residência no território desse Estado-Membro pelo menos nos seis meses imediatamente anteriores à apresentação do seu pedido de dissolução do vínculo matrimonial, em aplicação do artigo 3.º, n.º 1, alínea a), sexto travessão, do Regulamento n.º 2201/2003. Está igualmente demonstrado que IB exercia, durante a semana, de forma permanente e estável, desde 2017, uma atividade profissional por tempo indeterminado em França, em cujo território ocupava um apartamento para efeitos do exercício da referida atividade.
+
+60      Estes elementos visam demonstrar que a residência de IB no território desse Estado-Membro apresenta caráter estável e, além disso, permitem revelar, pelo menos, uma integração do interessado num ambiente social e cultural no referido Estado‑Membro.
+
+61      Embora esses elementos deixem a priori pensar que os requisitos estabelecidos no artigo 3.º, n.º 1, alínea a), sexto travessão, do Regulamento n.º 2201/2003 podem estar preenchidos, incumbe, todavia, ao órgão jurisdicional de reenvio verificar se todas as circunstâncias de facto específicas do caso concreto permitem efetivamente considerar que o interessado transferiu a sua residência habitual para o território do Estado-Membro a que pertence o referido órgão jurisdicional.
+#+end_quote
+
+Aceitando que *Aníbal tinha residência habitual em Lisboa, os tribunais portugueses dever-se-iam considerar internacionalmente competentes para julgar a ação.
+
+*4. Litispendência e ações dependentes*. O regime de litispendência e ações dependentes em matéria de processos matrimoniais encontra-se previsto nos n.º 1 e n.º 3 do artigo 20.º. Este regime só é diretamente aplicável às situações de litispendência ou de ações dependentes de cariz transnacional envolvendo apenas tribunais de Estados-Membros.
+
+No caso presente, temos ações intentadas em dois Estados-Membros. O regime é aplicável sempre que essas ações sejam ações abrangidas pelo âmbito de aplicação material do Regulamento (divórcio, separação judicial e anulação do casamento). Tal significa que o regime da litispendência e ações dependentes é acionado desde que duas ações matrimoniais sejam intentadas junto de tribunais de Estados-Membros diferentes e haja identidade de partes.
+
+Resulta da redação do preceito que não existe uma hierarquização entre as ações matrimoniais. Consequentemente, uma qualquer ação matrimonial intentada num tribunal de um Estado-Membro impede, durante a sua pendência, que qualquer outra ação matrimonial seja julgada nos tribunais de outro Estado-Membro. É o caso pois existe identidade de partes e estão pendentes ações de divórcio em Portugal e em Espanha.
+
+*5. Princípio da prioridade temporal*. O regime da litispendência e ações dependentes, assente na regra /qui prior est tempore potior est iure/ e na definição tripartida de instauração do processo (art. 17.º), permite resolver com facilidade a generalidade das situações de processos paralelos pendentes em tribunais de diversos Estados-Membros. No caso presente, a ação apresentada junto dos tribunais espanhois foi intentada mais tarde (em segundo lugar). Por esse motivo, e nos termos do artigo 20.º, n.º 1, o tribunal espanhol deve oficiosamente suspender a instância até que os tribunais portugueses estabeleçam (ou não) a sua competência.
+
+*Aníbal* não tem razão quando afirma que os tribunais espanhois devem manter a suspensão da instância até que os tribunais portugueses profiram uma decisão sobre o mérito da causa. Nos termos do art. 20.º, n.ºs 1 e 3, os tribunais espanhois devem aguardar que os tribunais portugueses decidam se são ou não internacionalmente compententes. Se os tribunais portugueses decidirem que são internacionalmente /incompetentes/, os tribunais espanhois podem levantar a suspensão e prosseguir a ação; se os tribunais portugueses decidirem que são internacionalmente /competentes/, os tribunais espanhois devem declarar-se internacionalmente /incompetentes/, tendo *Bianca* a possibilidade de apresentar pedido reconvencional junto dos tribunais portugueses.
+
+*Conclusão final:* caso se considere que *Aníbal* tem residência habitual em Lisboa, os tribunais portugueses seriam internacionalmente competentes e os tribunais espanhois deveriam suspender a instância no processo iniciado junto deles por *Bianca* até que os tribunais portugueses se declarassem internacional competentes, momento em que os tribunais espanhois se deveriam declarar internacionalmente incompetentes para julgar a ação apresentada por *Bianca*.
+
+** Questão 2: Os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais de *Carlos* e *Dani*?
+** Questão 3: /Quid iuris/ se já estivesse pendente uma ação de regulação do exercício das responsabilidades parentais de *Carlos* e *Dani* nos tribunais espanhois?
+
+** Questão 4: O tribunal português deve ouvir as crianças, *Carlos* e *Dani*? Em caso afirmativo, como deve proceder?
+** Questão 5: *Aníbal* requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º. Deve o tribunal emitir essa certidão?
+** Questão 6: Admitindo que a certidão foi emitida e que *Aníbal* requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de *Bianca*, que entende que deve ser recusada a execução da decisão portuguesa porque:
