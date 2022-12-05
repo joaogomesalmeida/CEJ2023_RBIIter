@@ -200,7 +200,9 @@ O artigo 24.º da Carta estabelece:
 
 #+begin_quote
 Artigo 24.º
+
 *Direitos das crianças*
+
 1. As crianças têm direito à proteção e aos cuidados necessários ao seu bem-estar. Podem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade.
 2. Todos os atos relativos às crianças, quer praticados por entidades públicas, quer por instituições privadas, terão primacialmente em conta o interesse superior da criança.
 3. Todas as crianças têm o direito de manter regularmente relações pessoais e contactos diretos com ambos os progenitores, exceto se isso for contrário aos seus interesses.
@@ -234,6 +236,54 @@ O superior interesse da criança na jurisprudência do TJ:
 A resposta a esta questão deve ser dada no caso concreto e é decisiva para a aceitação da competência. O pacto só produzirá os seus efeitos se o tribunal português considerar que o exercício da competência que lhe é atribuída pelo pacto respeita o superior interesse criança. Em suma: o tribunal tem uma palavra decisiva a dizer quanto a admissibilidde do pacto.
 
 ** Questão 3: /Quid iuris/ se já estivesse pendente uma ação de regulação do exercício das responsabilidades parentais de *Carlos* e *Dani* nos tribunais espanhois?
+
+*1. Litispendência em matéria de responsabilidade parental. Considerações gerais*. As regras de litispendência internacional em matéria de responsabilidade resultam do artigo 20.º, n.ºs 2 a 5.
+
+Para que haja uma situação de litispendência terá de haver identidade de partes, pedido e causa de pedir e a responsabilidade parental tem de ser em relação a(s) mesma(s) criança(s).
+
+Tudo isso se verifica no nosso caso.
+
+*2. A regra geral: prioridade temporal*. Tal como na litispendência e ações dependentes em matéria de ações matrimoniais, a regra geral é a da prioridade temporal. Segundo esta regra, o tribunal demandado em segundo lugar (no caso, o tribunal português) deve suspender a instância até que esteja estabelecida a competência do tribunal demandado em primeiro lugar (no caso, o tribunal espanhol), nos termos do art. 19.º, n.º 2.
+
+Se os tribunais espanhois se considerassem competentes, o tribunal português declarar-se-ia incompetente; se os tribunais espanhois se considerassem incompentetes, o tribunal português poderia prosseguir com a ação (art. 19.º, n.º 3).
+
+*3. A /nova/ regra /especial/: prevalência dos tribunais designados através de um pacto de jurisdição /exclusivo/*. O Regulamento introduz no art. 20.º, n.ºs 4 e 5, um novo critério de resolução da litispendência. Este critério é claramente inspirado no artigo 31.º, n.ºs 2 e 3, do Regulamento Bruxelas I /bis/.
+
+Estabelece-se a prevalência dos tribunais que tenham sido chamados a pronunciar-se na sequência de um pacto de jurisdição que lhes atribua competência exclusiva.
+
+Segundo o art. 20.º, n.º 4, a partir do momento em que foi intentada a ação num tribunal em virtude de um pacto de jurisdição exclusivo, os tribunais dos outros Estados-Membros devem suspender quaisquer ações que estejam pendentes e em que haja a tríplice identidade, até que o tribunal competente por via do pacto estabeleça (ou não) que é competente.
+
+Se se considerar competente, os outros devem declarar-se oficiosamente incompetentes (art. 20.º, n.º 5).
+
+*4. Quando é que um pacto de jurisdição efetuado nos termos do art. 10.º atribui competência exclusiva?*
+
+Como vimos acima, as partes podem fazer pactos de jurisdição: (i) até à data da instauração do processo e "fora" dele; ou (ii) durante o decurso do processo e "dentro" dele.
+
+O Regulamento é explícito ao estabelecer que um pacto firmado no decurso e "dentro" do processo é um pacto de jurisdição que atribui competência exclusiva (art. 10.º, n.º 4).
+
+Mas o pacto de jurisdição do nosso caso foi celebrado antes de intentada a ação. E sobre estes pactos, o art. 10.º /nada estabelece/ quanto à sua natureza. Já existe alguma divergência doutrinária sobre este ponto.
+
+Há autores que defendem que o pacto de jurisdição celebrado "fora" do processo é sempre /não exclusivo/, isto é, só atribui competência aos tribunais designados, não retirando competência aos demais tribunais que seriam competentes em virtude de outras regras do Regulamento (mormente, os espanhois por serem os do Estado-Membro da residência habitual das crianças).
+
+Outros autores defendem que nada impede as partes de atribuírem competência exclusiva ao pacto celebrado fora do processo; têm e de o fazer expressamente. O pacto de jurisdição exclusivo tem um efeito atributivo de competência e um efeito privativo de competência. Em favor desta tese, pode avançar-se a própria redação do artigo 20.º, n.º 4 e n.º 5, que mencionam todo o artigo 10.º e não apenas o artigo 10.º, n.º 1, al. /b)/, subal. /ii)/:
+
+#+begin_quote
+4.   Quando for chamado a pronunciar-se um tribunal de um Estado-Membro ao qual é atribuída *competência exclusiva por uma aceitação de competência referida no artigo 10.º*, os tribunais dos outros Estados-Membros suspendem a instância até ao momento em que o tribunal chamado a pronunciar-se com base no acordo ou na aceitação declare que não é competente for força do acordo ou da aceitação.
+
+5.   Quando e na medida em que o tribunal estabeleceu a competência exclusiva por força da aceitação da competência *a que se refere o artigo 10.º*, os tribunais dos outros Estados-Membros declaram-se incompetentes a favor desse tribunal.
+#+end_quote
+
+E sobretudo o considerando 38:
+
+#+begin_quote
+(38) O funcionamento harmonioso da justiça obriga a minimizar a possibilidade de instaurar processos concorrentes e a evitar que sejam proferidas decisões inconciliáveis em Estados-Membros diferentes. Importa prever um mecanismo claro e eficaz para resolver os casos de litispendência e de conexão e para obviar aos problemas resultantes das divergências nacionais quanto à determinação do momento a partir do qual os processos são considerados pendentes. Para efeitos do presente regulamento, é conveniente fixar esta data de forma autónoma. Todavia, a fim de reforçar a eficácia dos acordos exclusivos relativos à atribuição de competência, as disposições do presente regulamento sobre litispendência *não deverão constituir um obstáculo caso os pais atribuam competência exclusiva aos tribunais de um Estado-Membro*.
+#+end_quote
+
+O considerando também não distingue entre pactos celebrados "dentro" e "fora" do processo.
+
+Embora com dúvidas, eu inclino-me mais para esta solução.
+
+Assim, se concordarem comigo, as partes atribuíram competência exclusiva aos tribunais portugueses, o que significa que, apesar de demandado em primeiro lugar, o tribunal espanhol deveria suspender oficiosamente a instância até que o tribunal português determinasse se é ou não internacionalmente competente para julgar a ação (art. 20.º, n.ºs 4 e 5).
 
 ** Questão 4: O tribunal português deve ouvir as crianças, *Carlos* e *Dani*? Em caso afirmativo, como deve proceder?
 ** Questão 5: *Aníbal* requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º. Deve o tribunal emitir essa certidão?
