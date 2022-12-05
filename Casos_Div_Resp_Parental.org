@@ -289,5 +289,33 @@ Assim, se concordarem comigo, as partes atribuíram competência exclusiva aos t
 
 *1. Direito da criança expressar a sua opinião*. Uma das novidades deste Regulamento foi o acentuar do direito da criança expressar a sua opinião. Ele surge, em matéria de responsabilidade parental no art. 21.º; em matéria de rapto internacional de crianças, no art. 26.º; é uma das causas de recusa do reconhecimento de decisões em matéria de responsabilidade parental (art. 39.º, n.º 2); e a não audição da criança impede o recurso ao regime de reconhecimento das decisões "privilegiadas" (art. 47.º, n.º 3, al. /b)/).
 
+No nosso caso, a norma relevante é o art. 21.º:
+
+#+begin_quote
+Artigo 21.º
+
+Direito de a criança expressar a sua opinião
+
+1.   No exercício da sua competência ao abrigo da secção 2 do presente capítulo, os tribunais dos Estados-Membros devem, em conformidade com o direito e os procedimentos nacionais, dar a uma criança que seja capaz de formar as suas próprias opiniões a oportunidade real e efetiva de as expressar, diretamente ou através de um representante ou de um organismo adequado.
+
+2.   Se o tribunal, em conformidade com o direito e os procedimentos nacionais, der à criança a oportunidade de expressar as suas opiniões nos termos do presente artigo, deve ter devidamente em conta as opiniões da criança, em função da sua idade e maturidade.
+#+end_quote
+
+Uma das crianças tem mais de 16 anos e a outra mais de 13 anos. Não parece que estejamos perante um caso urgente. Assim, parece-me que as crianças devem ser ouvidas.
+
+Veja-se o considerando 39:
+
+#+begin_quote
+Os processos em matéria de responsabilidade parental ao abrigo do presente regulamento, assim como os processos de regresso ao abrigo da Convenção da Haia de 1980, deverão, enquanto *princípio básico, dar a uma criança visada por um desses procedimentos e que seja capaz de formar as suas próprias opiniões, em conformidade com a jurisprudência do Tribunal de Justiça, a oportunidade real e efetiva de expressar essas opiniões, devendo estas ser devidamente tidas em conta na avaliação do superior interesse da criança*. A oportunidade de a criança expressar as suas próprias opiniões, em conformidade com o artigo 24.º, n.º 1, da Carta e à luz do artigo 12.º da Convenção das Nações Unidas sobre os Direitos da Criança, desempenha um papel importante na aplicação do presente regulamento. O regulamento deverá, contudo, deixar que sejam o direito e os procedimentos nacionais de cada Estado-Membro a determinar quem ouvirá a criança e como a criança será ouvida. Por conseguinte, o presente regulamento não deverá ter como propósito determinar se a criança deverá ser ouvida pelo próprio juiz pessoalmente ou por um perito com formação adequada que transmita a sua opinião ao tribunal posteriormente, ou se deverá ser ouvida na sala de audiências ou em qualquer outro local ou através de outros meios. *Além disso, embora continue a ser um direito da criança, ouvir a criança não pode constituir uma obrigação absoluta, devendo antes a questão ser avaliada tendo em conta o superior interesse da criança, por exemplo, nos casos que envolvam acordos entre as partes*.
+#+end_quote
+
+*2. Como ouvir as crianças?* Se concordarmos que as crianças devem ser ouvidas, resta agora saber como. O Regulamento não se pronuncia sobre esta matéria. Remete mesmo para o Direito vigente no Estado-Membro do foro. Caberá a esse Direito determinar se a criança é ouvida em tribunal ou noutro local, pelo juiz ou por um perito.
+
+No entanto, deve-se chamar a atenção para o facto de as crianças residirem habitualmente em Espanha. Poderá haver colaboração da mãe e das crianças e estas deslocarem-se a Portugal para ser ouvidas. Mas também pode suceder o inverso.
+
+Nestes casos, pode ser necessário recorrer à cooperação judiciária, mais propriamente, ao Regulamento (UE) 2020/1783 do Parlamento Europeu e do Conselho de 25 de novembro de 2020 relativo à cooperação entre os tribunais dos Estados-Membros no domínio da obtenção de prova em matéria civil ou comercial (obtenção de prova) (reformulação).
+
+Sem pretensão de ser muito exaustivo, assinala-se que pode ser feito um pedido para a audição ser efetuada pelo tribunal requerido (eventualmente com a participação das partes e de um representante do tribunal - arts. 12.º a 14.º) /ou/, em alternativa, um pedido para a audição ser feita diretamente pelo tribunal português, através de videoconferência (art. 20.º). A principal diferença prática entre os meios indiretos e os meios diretos tem que ver com a coercividade: apenas nos primeiros se pode recorrer a medidas coercivas; no entanto, considerando que isto é um direito das crianças e não uma obrigação, parece-me duvidoso o recurso a meios coercivos para ultrapassar uma vontade /das crianças/ de não participarem no processo.
+
 ** Questão 5: *Aníbal* requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º. Deve o tribunal emitir essa certidão?
 ** Questão 6: Admitindo que a certidão foi emitida e que *Aníbal* requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de *Bianca*, que entende que deve ser recusada a execução da decisão portuguesa porque:
