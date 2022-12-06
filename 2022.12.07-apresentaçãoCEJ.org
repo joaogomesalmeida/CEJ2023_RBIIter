@@ -1,0 +1,256 @@
+#+TITLE: Divórcio e Regulação das responsabilidades parentais transfronteiriços
+#+DATE: 7 de dezembro de 2022
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil num:nil
+#+LATEX_CLASS: koma-article
+#+LATEX_COMPILER: xelatex
+
+* Slide 1
+
+Bom dia.
+
+Antes de começar quero agradecer ao CEJ, na pessoa da Dr.ª Chandra, o convite para estar aqui convosco.
+
+Para estes 40 minutos, o meu objetivo é dar uma panorâmica geral sobre o Regulamento Bruxelas II /ter/ e o modo como regula as questões específicas inerentes ao divórcio e regulação das responsabilidade parentais transfronteiriços. Farei breves menções a outros instrumentos normativos, mas o foco hoje é o Regulamento Bruxelas II /ter/.
+
+* Slide 2
+
+As situações transfronteiriças ou internacionais têm três grandes questões específicas:
+- Qual é o tribunal internacionalmente competente (Direito da Competência Internacional)?
+- Qual é o Direito material aplicável (Direito de Conflitos)?
+- É possível e como se procede ao reconhecimento de uma decisão estrangeira (Direito do Reconhecimento)?
+
+Na nossa ordem jurídica, os principais normativos que regulam estas três questões em matéria de divórcio são os indicados no /slide/.
+
+Na competência internacional, o principal instrumento é, de longe, o RB II /ter/; no Direito de conflitos, o Regulamento Roma III; no Direito do Reconhecimento eu diria que é particularmente importante o RB II /ter/, mas, sobretudo por causa dos PALOPs, mantém-se muito relevante o regime interno.
+
+* Slide 3
+
+Neste /slide/ encontramos o elenco dos principais normativos para a regulação das responsabilidades parentais. Os instrumentos mais relevantes são o RB II /ter/ e a Convenção de Haia de 1996 Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, que designarei, de ora em diante, por Convenção de Haia de 1996.
+
+No Direito de Reconhecimento, também se mantém relevante o regime interno pela mesma ordem de razão.
+
+Como se pode ver, o Regulamento Bruxelas II /ter/ pode considerar-se um regulamento /duplo/, uma vez que estabelece normas relativas à competência internacional e ao reconhecimento de decisões, atos autênticos e acordos registados. No nosso /workshop/ de hoje é esse o foco e, por isso, fica de fora o Direito de Conflitos.
+
+* Slide 4
+
+Dividi a minha apresentação em três partes: uma primeira, brevíssima, fazendo menção aos âmbitos de aplicação do Regulamento; e duas grandes partes, uma relativa à competência internacional e outra relativa ao reconhecimento.
+
+Comecemos então pelos âmbitos de aplicação.
+
+* Slide 5
+
+Para sabermos se o RB II /ter/  é aplicável temos, em cada litígio, de verificar se os seus âmbitos de aplicação estão preenchidos:
+- O espacial exige que o litígio seja transfronteiriço, isto é, tenha pontos de contacto relevantes com mais de um Estado soberano;
+- O temporal exige, no caso concreto das regras de competência internacional, que a ação tenha sido intentada a partir de 1 de agosto de 2022.
+- O material exige que o litígio respeite a uma ação matrimonial (divórcio, separação judicial ou anulação do casamento) ou à regulação das responsabilidades parentais.
+
+Preenchidos os âmbitos, o juiz português está vinculado a aplicar as regras do Regulamento Bruxelas II /ter/.
+
+* Slide 6
+
+Um outro ponto prévio para destacar que, relativamente às ações matrimoniais, o âmbito de aplicação material é limitado à dissolução ou enfraquecimento do vínculo matrimonial.
+
+Isto significa, em primeira linha, que o Regulamento Bruxelas II /ter/ não abrange nenhuma das questões consequenciais do divórcio, com exceção da regulação das responsabilidades parentais.
+
+Para além disso, é importante esclarecer a menção às causas do divórcio no considerando 9.
+
+Obviamente, o tribunal internacionalmente competente para a ação de divórcio transnacional pode atender às causas de divórcio invocadas pelas partes para proferir ou não divórcio.
+
+É em sede de reconhecimento das decisões estrangeiras que a exclusão das causas do divórcio adquire relevância. É objeto de reconhecimento a dissolução do casamento, mas não a causa que levou o tribunal de origem a proferir essa decisão. Se o divórcio é decretado por um tribunal francês porque se considerou provado que um dos cônjuges agrediu o outro, o reconhecimento dessa decisão em Portugal, ao abrigo do RB II /ter/, não permite considerar provadas essas mesmas agressões.
+
+* Slide 7
+
+Vejamos então agoras as principais regras de competência internacional em matéria de divórcio e regulação das responsabilidades parentais.
+
+* Slide 8
+
+As normas atribuitivas de competência internacional internacional em matéria de divórcio estão previstas nos artigos 3.º a 5.º do RB II /ter/. Elas têm uma natureza *concorrencial*, o que constitui uma manifestação de um princípio tendente ao favorecimento do divórcio.
+
+No slide temos um pequeno caso com alguns elementos de estraneidade.
+
+* Slide 9
+
+Olhando para esses elementos verificamos que as normas do Regulamento Bruxelas II /ter/ atribuem competência aos tribunais de 5 (cinco) Estados-Membros.
+
+O Regulamento permite assim ao cônjuge que intente a ação, escolher qualquer um destes cinco Estados-Membros.
+
+As normas de competência internacional em matéria de divórcio estão construídas de modo a que seja, muitas vezes, possível haver competências concorrentes, permitindo assim o /forum shopping/. E, por isso, há um favorecimento do divórcio, uma vez que, em regra, é o cônjuge que quer dissolver o casamento quem instaura a ação.
+
+* Slide 10
+
+Esta ideia levou o Tribunal de Justiça a tomar posição sobre o modo como se resolvem problemas de conteúdo múltiplo do elemento de conexão nacionalidade. Perguntou-se quais seriam os tribunais competentes nos termos do artigo 3.º, n.º 1, alínea /b)/, do RB II /bis/ (o regulamento que precedeu o que hoje analisamos) quando os cônjuges eram *ambos* nacionais de dois Estados-Membros, no caso concreto, eram ambos nacionais franceses e húngaros.
+
+O Tribunal de Justiça esclareceu que, não visando as normas do Regulamento excluir uma situação de competência concorrencial, a melhor interpretação para o artigo 3.º, n.º 1, alínea /b)/, era aquela que atribuía competência internacional aos tribunais de *todos* os Estados-Membros da nacionalidade comum dos cônjuges. Logo, no caso concreto, a ação podia ser intentada junto dos tribunais franceses ou dos tribunais húngaros.
+
+* Slide 11
+
+Recentemente, o Tribunal de Justiça teve de pronunciar-se sobre uma questão semelhante: pode um cônjuge ter, simultaneamente, residência habitual em dois Estados?
+
+A opinião do Tribunal de Justiça foi a de que o elemento de conexão residência habitual - enquanto centro de vida da pessoa - *não era suscetível de conteúdo múltiplo*, isto é, uma pessoa só pode ter, num determinado momento, *uma* residência habitual.
+
+Esta é uma questão discutida na doutrina. Saliento que esta posição tem sido igualmente a adotada em sede da Convenções da Conferência da Haia e foi igualmente adotada pelo Tribunal de Justiça em sede do Regulamento n.º 650/2012, relativo às sucessões por morte com incidência transfronteiriça.
+
+* Slide 12
+
+Ainda mais recentemente, o TJ teve oportunidade de voltar a olhar para o conceito de residência habitual do cônjuge, agora no contexto em que os cônjuges viviam num Estado terceiro por conta do exercício de funções como agentes contratuais da União.
+
+Apesar disso, o Tribunal de Justiça clarificou que a presença estável é um elemento essencial do conceito de residência habitual, não sendo possível considerar que um ou ambos os cônjuges têm residência habitual num Estado no território do qual eles não têm uma presença com um grau suficiente de estabilidade.
+
+* Slide 13
+
+Pode suceder que os artigos 3.º a 5.º do Regulamento Bruxelas II /bis/ não atribuam competência internacional aos tribunais portugueses.
+
+Isso *não é* suficiente, *por si só*, para recorrermos às normas de competência internacional de fonte interna.
+
+Isso decorre da letra dos artigos 7.º/1 e 17.º do Regulamento Bruxelas II /bis/. Se a redação do artigo 7.º/1 pode suscitar dúvidas, o mesmo não sucede com a redação do artigo 17.º. Se, num caso concreto, as normas de Regulamento Bruxelas II /bis/ não atribuírem competências aos tribunais portugueses, mas, por exemplo, atribuírem competência aos tribunais espanhois, os tribunais portugueses são obrigados a declarar-se incompetentes, caso a ação seja intentada em Portugal.
+
+* Slide 14
+
+A grande novidade em matéria de competência internacional relativa ao divórcio foi o novo artigo 6.º, que funde os anteriores artigos 6.º e 7.º do Regulamento Bruxelas II /bis/, e que, segundo me parece, tem uma redação que corresponde melhor àquela que era a doutrina maioritária e à jurisprudência do tribunal de justiça.
+
+Em suma: só é possível recorrer as normas de competência internacional de fonte interna em matéria de divórcio se as normas do Regulamento Bruxelas II /ter/ não atribuírem competência internacional aos tribunais de nenhum Estado-Membro e o cônjuge requerido não tenha nacionalidade de um outro Estado-Membro (que não o do foro) ou domicílio na Irlanda, no caso deste Estado-Membro.
+
+Dizendo a mesma coisa, da perspetiva do juiz português: os tribunais portugueses só podem aplicar as normas do CPC para determinarem a sua competência internacional para julgar um divórcio transnacional quando:
+- nenhum Estado-Membro seja internacionalmente competente para julgar esse litígio nos termos dos artigos 3.º a 5.º do citado Regulamento; *e*
+- o cônjuge requerido não tenha “domicílio” na Irlanda; *e*
+- o cônjuge requerido não seja nacional dos restantes Estados-Membros.
+
+* Slide 15
+
+Vamos agora olhar para as normas atribuitivas de competência internacional em matéria de responsabilidade parental.
+
+A regra geral estabelece a competência internacional dos tribunais do Estado-Membro em que a criança resida habitualmente à data da instauração do processo (art. 7.º, n.º 1).
+
+O conceito essencial, não definido no Regulamento, mas que tem de ser interpretado autonomamente, é o da residência habitual do menor.
+
+O Tribunal de Justiça já proferiu /vários/ acórdãos sobre como deve interpretada e concretizada a residência habitual de crianças. Indico aqui os que mais parecem mais relevantes.
+
+O Tribunal de Justiça esclareceu no Acórdão /A/, proc. C-523/07, que o significado e âmbito de residência habitual é variável em função do contexto e dos objetivos prosseguidos pelo instrumento normativo comunitário em que está inserido, o que dificulta a sua transposição de uma matéria para outra. O Tribunal de Justiça expressamente declarou que as indigações efetuadas em matéria de segurança social não são transponíveis para a matéria da responsabilidade parental.
+
+O Tribunal de Justiça afirmou, ao concretizar o conceito de residência habitual, que:
+#+begin_quote
+
+"Além da presença física do menor num Estado‑Membro, devem também ser tidos em consideração outros factores susceptíveis de demonstrar que essa presença de forma alguma tem um carácter temporário ou ocasional e que a residência do menor revela uma determinada integração num ambiente social e familiar."
+
+#+end_quote
+
+Sobre a presença física, esclareceu mais tarde que o conceito de residência habitual exige a presença física, mesmo nos casos em que esta não existe por causa de uma conduta ilícita (a coação).
+
+O conceito de residência habitual tem também uma nota estabilidade. Por isso, uma presença com carácter temporário ou ocasional não é suficiente para estabelecer a residência habitual.
+
+No caso das crianças em idade latente, o Tribunal de Justiça tem afirmado que, em princípio, estas crianças tem a sua residência habitual no mesmo país em que a pessoa que delas cuida.
+
+Todavia, embora tenha assinalado que a intenção do responsável pode ser elemento a ter em conta, também esclareceu, no Acórdão HR, proc. C-512/07, que a intenção (elemento subjetivo) *não é determinante em si mesma*, pois a residência habitual assenta essencialmente em circunstâncias objetivas.
+
+O tribunal deve atender a todas as circunstâncias, indicando que há que atender, em geral, a factores como a duração, a regularidade, as condições e as razões da permanência da criança no território dos diferentes Estados-Membros em causa, nos quais a criança esteve presente durante a sua vida, o lugar e as condições da sua escolarização bem como as relações familiares e sociais da criança nos referidos Estados-Membros.
+
+Nos casos em que uma criança em idade lactente vive diariamente com os seus progenitores, importa determinar, nomeadamente, o lugar onde estes vivem de forma estável e onde estão integrados num ambiente social e familiar. A este respeito, há que ter em conta fatores como a duração, a regularidade, as condições e as razões da sua permanência no território dos diferentes Estados‑Membros, bem como as relações familiares e sociais aí existentes entre estes e a criança.
+
+Em resumo: com o conceito de residência habitual da criança procura-se determinar o centro de vida dessa criança.
+
+* Slide 16
+
+As regras especiais do artigo 8.º e 9.º tem em vista as situações de mudança da residência habitual. Aqui quero sobretudo destacar que estes preceitos só são aplicáveis se a nova RH for num Estado-Membro. Se for num Estado terceiro, estes preceitos não são aplicáveis.
+
+No caso de deslocação ou retenção ilícitas para um Estado terceiro que seja Estado Contratante da Conv. de Haia de 1996, é aplicável o artigo 7.º desta Convenção, que consagra um regime muito semelhante ao previsto no Regulamento Bruxelas II /ter/.
+
+* Slide 17
+
+Em matéria de relevância da autonomia privada, vemos aqui a primeira alteração significativa que é introduzida pelo Regulamento Bruxelas II /ter/.
+
+O artigo 12.º/1 do Regulamento Bruxelas II /bis/ previa um regime específico para a atribuição de competência para regular a responsabilidade parental aos tribunais competentes para as ações matrimoniais. Esse regime assenta, essencialmente, na autonomia privada e no superior interesse da criança.
+
+O artigo 12.º/3 previa a possibilidade de extensão de competência noutros processos que não as ações matrimoniais.
+
+O Regulamento Bruxelas II /ter/ elimina o regime especial para as ações matrimoniais. Isto não significa que não se possa atribuir competência ao tribunal que julga o divórcio para decidir sobre a atribuição de responsabilidade parental. Signfiica apenas que agora não há um regime específico, e seguem-se as regras gerais que agora constam do artigo 10.º do RB II /ter/. Esta conclusão resulta claramente do considerando 23 do Regulamento Bruxelas II /ter/.
+
+Os exemplos de ligação estreitas que já existiam no Regulamento Bruxelas II /bis/ são a residência habitual de um dos titulares da responsabilidade parental e a nacionalidade da criança; o Regulamento Bruxelas II /ter/ adita como exemplo de ligação estreita o facto de o Estado-Membro da prorrogação de competência ser o da anterior residência habitual da criança.
+
+No Regulamento Bruxelas II /bis/ a aceitação podia ser expressa ou resultar por qualquer outra forma inequívoca (art. 12.º, n.º 1, al. /b)/ e n.º 3, al. /b)/). O Regulamento Bruxelas II /ter/ passa a exigir que o acordo seja feito por escrito (art. 10.º, n.º 2) e a aceitação seja explícita (art. 10.º, n.º 1, al. /b)/, subal. /ii)/). O que significa que já não é possível dar o acordo ou aceitação por forma tácita.
+
+* Slide 18
+
+A regra subsidiária é aplicável apenas quando a criança não tem residência habitual num Estado-Membro e não houve escolha dos tribunais de um Estado-Membro. Esta regra pode aplicar-se aos casos de crianças refugiadas ou internacionalmente deslocadas, na sequência de perturbações no Estado-Membro da sua (anterior) residência habitual.
+
+Há, no entanto, que articular esta regra com a Convenção da Haia de 1996. Nos termos do artigo 52.º, n.º 2, desta Convenção, a regra subsidiária do Regulamento aplica-se quando a criança tinha a sua residência habitual num Estado-Membro antes da deslocação; a regra subsidiária da Convenção aplica-se quando a criança tinha a sua residência habitual num Estado Contratante (que não seja um Estado-Membro) antes da deslocação.
+
+* Slide 19
+
+Houve também alterações significativas ao regime de transferência para um tribunal melhor colocado, anteriormente previsto no artigo 15.º do Regulamento Bruxelas II /ter/.
+
+Trata-se aqui de uma faculdade próxima do instituto do "/forum non conveniens/" existente nos Estados da família jurídico do /common law/.
+
+Em termos muito sucintos, admite-se, em circunstâncias excecionais, que o tribunal competente ao abrigo das regras do Regulamento não seja o melhor colocado para apreciar o processo. Previu-se assim, em homenagem ao superior interesse da criança, a possibilidade de transferir o processo para um tribunal de outro Estado-Membro que esteja melhor colocado para o julgar, desde que esse Estado-Membro tenha uma ligação particular com a criança.
+
+O Tribunal de Justiça já salientou que a lista que concretiza o conceito de ligação particular é exaustiva no seu Acórdão /Child and Family Agency/, proc. C-428/15 (art. 15.º/3 do Regulamento Bruxelas II /bis/ e art. 12.º/4 do Regulamento Bruxelas II /ter/).
+
+Este mecanismo é desenvovlvido no Regulamento Bruxelas II /ter/.
+
+Assinalo que deixa de ser necessária a aceitação de uma partes, nos casos em que a iniciativa da transferência é do tribunal, alteração que me parece correta à luz do superior interesse criança. Conjugada com esta alteração, surge o esclarecimento de que, nos casos de prorrogação com atribuição de competência exclusiva, não é possível efetuar a transferência.
+
+As restantes alterações são concretizações do regime, com vista a evitar dilações excessivas.
+
+* Slide 20
+
+Também as competências do Regulamento Bruxelas II /ter/ em matéria de responsabilidade parental *não são exaustivas*. A ideia é a mesma: se as regras de competência do regulamento não atribuírem competência internacional a um tribunal de um qualquer Estado-Membro, então o tribunal do Estado-Membro do foro pode recorrer a outras normas que vigorem no seu Estado para estabelecer a sua competência internacional.
+
+Em Portugal, teremos de ver, em primeiro lugar, a Conv. de Haia de 1996.
+
+* Slide 21
+
+Por fim, queria ainda falar um pouco sobre o Direito do Reconhecimento nestas matérias.
+
+* Slide 22
+
+Em matéria de divórcio temos três grandes instrumentos, sendo que os mais relevantes são o Regulamento Bruxelas II /ter/ e o CPC. Atendendo ao reduzido número de Estados Contratantes, o regime da Convenção da Haia acaba por não ser tão relevante na prática.
+
+Confrontando o regime de reconhecimento do Regulamento com o do CPC, verifica-se que o regime do Regulamento só abrange as decisões "positivas", isto é, aquelas que decretam o divórcio. O regime do CPC abrange igualmente as decisões de não decretam o divórcio. A outra diferença relevante é que o regime de reconhecimento é automático no Regulamento e depende de um processo no regime do CPC.
+
+* Slide 23
+
+Em matéria de responsabilidades parentais temos três sistemas de reconhecimento relevantes: o do Regulamento, o da Convenção da Haia de 1996 (em virtude do elevado número de Estados Contratantes) e o do CPC (sobretudo por causa dos PALOP's e Brasil que não são Estados Contratantes da Convenção da Haia de 1996).
+
+Destaco aqui também o facto de o Regulamento Bruxelas II /ter/ suprimir o /exequatur/.
+
+Atendendo à importância do regime de reconhecimento do regulamento Bruxelas II /ter/, vou destacar alguns elementos gerais e apontar os fundamentos de recusa do reconhecimento.
+
+* Slide 24
+
+Como este regime assenta na ideia ou princípio da confiança mútua, proíbe-se o controlo da competência do tribunal de origem, mesmo quando o tribunal de origem estabeleceu a sua competência internacional com base em normas diferentes das do Regulamento.
+
+A opção do legislador da União Europeia parece ter sido a de que apenas os tribunais do Estado-Membro onde é colocado o litígio transnacional podem aferir da competência internacional para julgar o mesmo.
+
+* Slide 25
+
+Resulta claramente uma proibição da revisão de mérito, nas suas vertentes fraca, em que se controla apenas a lei aplicada, e forte, em que se controla também se a lei foi corretamente interpretada e aplicada.
+
+A razão de ser da consagração do artigo 70.º do Regulamento Bruxelas II /ter/  parece encontrar-se na grande divergência de conceções materiais quanto ao instituto do divórcio. O artigo 70.º é consagrado como resposta às preocupações dos Estados-Membros com conceções mais liberais do divórcio, que temiam que as suas decisões não fossem reconhecidas pelos Estados-Membros com conceções mais conservadoras.
+
+Na minha opinião, o artigo 70.º do Regulamento Bruxelas II /ter/ visa esclarecer que a mera divergência quanto ao fundamento do divórcio não constitui, direta e imediatamente, um motivo para recusar o reconhecimento da decisão estrangeira. Para que se possa recusar o reconhecimento é necessário que essa divergência constitua “uma violação manifesta de uma regra de direito considerada essencial na ordem jurídica do Estado requerido ou de um direito considerado fundamental pela mesma”.
+
+* Slide 26
+
+Os fundamentos de recusa são *taxativos*.
+
+Quanto à ordem pública internacional, em matéria de divórcio, quando o Estado-Membro requerido seja Portugal, não se antevê que sejam de verificação comum situações em que o reconhecimento da decisão de divórcio transnacional proferida pelo Estado-Membro de origem seja contrário à ordem pública internacional portuguesa. Isto porque o Direito material português consagrou o princípio da rutura em matéria de divórcio. O Direito material português pode hoje considerar-se um Direito com uma conceção bastante liberal do divórcio. Admite o divórcio por mútuo consentimento, no qual não é necessária a indicação de causa, bem como o divórcio sem consentimento de um dos cônjuges, assente em causas objetivas, isto é, independentemente da culpa de um dos cônjuges.
+
+Quanto ao fundamento assente na garantia do direito de defesa, o mesmo só é aplicável quando a decisão estrangeira que decrete o divórcio transnacional tenha sido proferida à revelia. Para ser considerado parte revel, o cônjuge requerido não pode ter apresentado qualquer defesa no processo que culminou com a decisão proferida no Estado-Membro de origem, devendo ser equiparados a esta situação os casos em que o cônjuge requerido intervém no processo apenas para declarar que não foi citado em tempo útil e de forma a poder deduzir a sua defesa.
+
+Quanto à incompatibilidade de decisões, há dois requisitos comuns (identidade de partes e incompatibilidade) e dois requisitos específicos (prioridade temporal e condições de reconhecimento), aplicáveis quando o confronto seja com uma decisão proferida por um tribunal de outro Estado-Membro ou de um Estado terceiro.
+
+Há incompatibilidade entre as duas decisões quando as mesmas forem irreconciliáveis entre si, isto é, quando produzam efeitos jurídicos que se excluem reciprocamente. Esta análise deve ser efetuada do perspetiva do Estado-Membro requerido.
+
+* Slide 27
+
+Em matéria de responsabilidade parental aditam-se três /outros/ fundamentos:
+
+1. Audição da criança:
+2. Audição da pessoa que exerce a responsabilidade parental; e
+3. Desrespeito do processo de colocação da criança noutro Estado-Membro.
+
+O fundamento assente na audição da criança, parte da ideia de que a criança, quando tenha capacidade, deve participar na decisão. Assinala-se aqui que o Regulamento Bruxelas II /ter/ desenvolve de forma mais cuidada este fundamento de recusa.
+
+* Slide 28
+
+O meu obrigado e espero não ter ultrapassado em demasia o meu tempo.

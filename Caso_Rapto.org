@@ -5,6 +5,6 @@
 #+OPTIONS: date:nil toc:nil num:nil
 #+LATEX_COMPILER: xelatex
 
-* Caso Prático
+* Caso prático
 
 * Tópicos de resolução
