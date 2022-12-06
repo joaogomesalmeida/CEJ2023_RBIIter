@@ -1,0 +1,10 @@
+#+title: Direito Internacional da Família
+#+Author: João Gomes de Almeida
+#+Date: 14 de dezembro de 2022
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil num:nil
+#+LATEX_COMPILER: xelatex
+
+* Caso Prático
+
+* Tópicos de resolução
