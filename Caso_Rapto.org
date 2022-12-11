@@ -5,6 +5,28 @@
 #+OPTIONS: date:nil toc:nil num:nil
 #+LATEX_COMPILER: xelatex
 
-* Caso prático
+* Caso prático 1
 
-* Tópicos de resolução
+*Ana*, nacional portuguesa, e *Benny*, nacional irlandês, são os pais de duas crianças, ambas, luso-irlandesas, *Charles*, nascido em 1 de outubro de 2006, e *Diane*, nascida em 1 de dezembro de 2012.
+
+A família residia habitualmente na Irlanda desde 2006. Em 10 de agosto de 2022, *Ana* viajou para Portugal com as crianças, para passar as férias de verão com os avós maternos das crianças. Em 30 de agosto de 2022, Ana comunica telefonicamente a *Benny* que não irá regressar à Irlanda e que ela e as duas crianças vão passar a viver em Portugal, tendo ela já encontrado uma casa para morarem e escolas para as duas crianças na cidade de Lisboa.
+
+*Benny*, no dia 15 de setembro de 2022, intenta ação pedindo o regresso das crianças junto dos tribunais portugueses.
+
+*Questão 1:* Sabendo que *Ana* e *Benny* não são casados entre si e que, segundo o Direito material irlandês, o pai natural dos menores não beneficia de pleno direito do direito de guarda, aprecie a admissibilidade da ação intentada por *Benny*.
+
+*Questão 2:* Admita agora (e para as questões seguintes) que existia uma decisão judicial irlandesa que atribuía o direito de guarda relativo a *Charles* e a *Diane* conjuntamente a *Ana* e a *Benny*. A resposta alterava-se? E a data em que essa apreciação seria feita é de algum modo relevante?
+
+*Questão 3:* *Ana* alega que era vítima de violência doméstica levada à cabo por *Benny*, juntando vários relatórios de várias deslocações às urgências médicas para tratar ferimentos físicos e declarações assinadas por *Ella*, irlandesa vizinha do casal, em como tinha presenciado *Benny* injuriar, ameaçar e agredir *Ana*. Diga se o juiz português:
+a) Pode proferir decisão de recusa sem ouvir *Benny*?
+b) Pode proferir decisão de recusa se vigorar na Irlanda uma decisão judicial que impede *Benny* de se aproximar de *Ana* e das crianças e os serviços sociais Irlandeses estarem disponíveis para acolher *Ana* e as crianças no âmbito do programa nacional destinado a proteger as vítimas de violência doméstica?
+
+*Questão 4:* Admita que o juiz português de primeira instância proferiu uma decisão de regresso. O juiz pode declará-la executória, independentemente de qualquer recurso?
+
+*Questão 5:* /Quid iuris/ se, por fim, *Ana*, antecipando que a decisão lhe seria desfavorável, se deslocou, com as crianças, para França.
+
+* Caso prático 2
+
+* Tópicos de resolução do caso prático 1
+
+* Tópicos de resolução do caso prático 2
