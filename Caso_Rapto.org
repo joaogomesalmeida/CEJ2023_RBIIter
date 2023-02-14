@@ -23,7 +23,7 @@ A família residia habitualmente na Irlanda desde 2006. Em 10 de agosto de 2022,
 
 (i) Pode proferir decisão de recusa sem ouvir *Benny*?
 
-(ii) Pode proferir decisão de recusa sem conceder à conceder à criança a oportunidade de ser ouvida?
+(ii) Pode proferir decisão de recusa sem conceder à criança a oportunidade de ser ouvida?
 
 (iii) Pode proferir decisão de recusa se vigorar na Irlanda uma decisão judicial que impede *Benny* de se aproximar de *Ana* e das crianças e os serviços sociais Irlandeses estarem disponíveis para acolher *Ana* e as crianças no âmbito do programa nacional destinado a proteger as vítimas de violência doméstica?
 
@@ -43,7 +43,7 @@ A família residia habitualmente na Irlanda desde 2006. Em 10 de agosto de 2022,
 
 (iii) O tribunal irlandês profere, em 13 de dezembro de 2022 e após ouvir *Ana*, *Benny*, *Charles* e *Diane*, uma decisão que atribui o direito de guarda em exclusivo a *Benny* e concede direitos de visita a *Ana*, fixando a residência habitual das crianças na Irlanda. Como pode esta decisão ser executada em Portugal?
 
-* Tópicos de resolução :noexport:
+* Tópicos de resolução
 ** *Questão 1:* Sabendo que *Ana* e *Benny* não são casados entre si e que, segundo o Direito material irlandês, o pai natural dos menores não beneficia de pleno direito do direito de guarda, aprecie a admissibilidade da ação intentada por *Benny*.
 
 *1. Âmbitos de aplicação.* São quatro os âmbitos de aplicação do Regulamento Bruxelas II /ter/ (doravante os considerandos e artigos indicados sem indicação de fonte pertencem a este Regulamento).
@@ -195,17 +195,167 @@ Como se refere no Relatório Explicativo, a Convenção adotou a posição mais 
 "(...) no action or decision based upon the Convention's provisions can be taken with regard to a child after its sixteenth birthday."[cite:@perez-vera1980 p. 450, ponto 77]
 #+end_quote
 
+Isto significa, quanto a *Charles*, que muito dificilmente seria possível proferir uma decisão de regresso, uma vez que ela teria de ser proferida em menos de 15 dias.
 
-
+Recorda-se que o novo artigo 24.º estabelece regras mais detalhadas sobre o "processo judicial expedito", estabelecendo nomeadamente que:
+1. deve ser usado o procedimento mais expedito no direito nacional (art. 24.º/1 - perguntar aos formandos qual é o procedimento a adotar em Portugal);
+2. Salvo casos excecionais, o tribunal de 1.ª instância deve decidir no prazo de seis semanas (art. 24.º/2);
+3. Salvo casos excecionais, o tribunal de instância superior deve decidir no prazo de seis semanas contadas da data em que estiver em condições para examinar o recurso (art. 24.º/3).
 
 ** *Questão 3:* *Ana* alega que era vítima de violência doméstica levada à cabo por *Benny*, juntando vários relatórios de várias deslocações às urgências médicas para tratar ferimentos físicos e declaração assinada por *Ella*, irlandesa vizinha do casal, em como tinha presenciado *Benny* injuriar, ameaçar e agredir *Ana*. Diga se o tribunal português:
 *** (i) Pode proferir decisão de recusa sem ouvir *Benny*?
-*** (ii) Pode proferir decisão de recusa sem conceder à conceder à criança a oportunidade de ser ouvida?
+
+*8. Oportunidade de audição da parte que requer o regresso*. As regras do Regulamento Bruxelas II /ter/ visam promover o regresso, sem demora, da criança ilicitamente deslocada ou retida ao Estado-Membro da sua residência habitual antes da deslocação ou retenção ilícitas. Deste modo, compreende-se que a audição da parte que requer o regresso /é sempre obrigatória/ quando o tribunal do Estado-Membro da deslocação ou retenção pretende proferir uma decisão que /não/ ordene o regresso da criança (art. 27.º, n.º 1).
+
+Deste modo, o tribunal /não pode/ proferir uma decisão de recusa sem previamente dar a *Benny* a oportunidade de ser ouvido no processo. Em certa medida, parece-me que esta regra assegura simultaneamente o direito a julgamento equitativo, assegurando que a parte que requer o regresso da criança tem a oportunidade de expor o seu caso perante o tribunal, e, secundariamente, funciona como dissuasor da emissão de decisões de recusa de regresso.
+
+Nos casos em que o tribunal do Estado-Membro da deslocação ou retenção ilícitas profira uma decisão de regresso da criança ao anterior Estado-Membro da residência habitual, essa decisão pode ser feita dispensando a audição da parte que requer o regresso. Neste caso é o superior interesse da criança, conjugado com a necessidade de um procedimento célere e o alinhamento entre a decisão e o pedido efetuado pelo parte que requer o regresso, que permite a dispensa de audição.
+
+*Pergunta aos formandos:* imaginem que o tribunal português profere decisão de recusa sem dar a *Benny* a oportunidade de ser ouvido? Como pode ele reagir?
+
+/Resposta:/ recorrer da decisão com fundamento em violação do artigo 24.º/1.
+
+*** (ii) Pode proferir decisão de recusa sem conceder à criança a oportunidade de ser ouvida?
+
+*9. O direito da criança a ser ouvida*. É indiscutível, a luz dos artigos 26.º e 21.º do Regulamento Bruxelas II /ter/ que a criança tem o direito de expressar a sua opnião num processo de regresso.
+
+Estas normas, conjuntamente com o considerando 39.º, são bem vindas porque destacam e acentuam a visibilidade deste direito da criança, que já existia e está consagrado quer no artigo 24.º da Carta dos Direitos Fundamentais da União Europeia, quer no artigo 12.º da Convenção das Nações Unidas sobre os Direitos da Criança.
+
+No nosso caso prático, o foco será a *Diane* porque, como vimos anteriormente, *Charles* rapidamente terá 16 anos de idade e deixará de poder recair sobre ele qualquer tipo de decisão proferida nos termos da Convenção da Haia de 1980.
+
+*Diane* tem 9 anos de idade, quase 10, aquando da propositura da ação.
+
+O tribunal deve, em primeiro lugar, verificar se a crinaça é capaz de formar as suas próprias opiniões. Nessa análise, deve atender-se à idade e ao grau de maturidade (até por referência ao artigo 24.º, n.º 1 da Carta), mas a nova redação não limita a aferição a esses elementos. A idade e o grau de maturidade são agora indicados como elementos para aferir o "peso" que o tribunal deve dar às opiniões das crianças.
+
+Se concluir que a criança é capaz de formar as suas próprias opiniões, o tribunal deve dar uma oportunidade real e efetiva à crianças de as prestar (art. 21.º/1 /in fine/ e /ex vi/ art. 26.º). Cabe ao Direito nacional determinar o modo como a audição da criança se processa, o que deve ser feito atendendo ao superior interesse da criança (audição direta ou por representante; audição por perito nomeado pelo Tribunal; videoconferência).
+
+Apesar do que se tem dito, não é possível responder negativamente à questão. Em regra, o Regulamento Bruxelas II /ter/ pretende destacar que a criança tem direito a ser ouvido nos processos de rapto internacional que a envolvam. Mas esse é um direito e não uma obrigação da criança, o que significa, desde logo, que a criança pode ser recusar participar no processo, sem que tal afete a margem decisória do tribunal. Sempre se dirá que este é o caso simples: pois aqui, seria ainda dada à criança a /oportunidade/ de ser ouvida, ela é que prescindiria dessa oportunidade. Mas, de igual modo, o tribunal pode, num determinado caso concreto, concluir que a criança não tem capacidade para formar as suas próprias opiniões, o que o dispensa de dar a oportunidade à criança de ser ouvida.
+
+Outra situação mais duvidosa e complexa, é aquela em que o tribunal conclui que a criança é capaz de formar as suas próprias opiniões (e, regra geral e fazendo uma generalização abstracta, diremos que as crianças de 9/10 anos de idade são capazes de formas as suas próprias opiniões), mas conclui igualmente que o superior interesse da criança, no caso concreto, aponta no sentido de não a ouvir, porque, por exemplo, a audição deve, no caso concreto, ser feita presencialmente e a deslocação da criança acarreta riscos. Este caso é mais duvidoso, porque duas ordens de razão: (i) o artigo 21.º/1 parece apontar no sentido de que o tribunal deve dar oportunidade de audição às crianças /sempre que elas sejam capazes de formar as suas opiniões/; (ii) a generalidade das situações em que pode haver risco para as crianças, este pode ser mitigado ou eliminado por outras vias de audição (por perito, por videoconferência, por representante, deslocando um representante do tribunal à criança, recorrendo a audição efetuada nos termos do Regulamento de Obtenção de Prova através de um tribunal do Estado onde está a criança).
+
+Em contraponto, o considerando 39 parece admitir a possibilidade de prescindir da audição da criança, se tal for a solução mais adequada aos seus superiores interesses, dando como exemplo os casos que envolvam acordos entre as partes:
+
+#+begin_quote
+"Além disso, embora continue a ser um direito da criança, ouvir a criança não pode constituir uma obrigação absoluta, devendo antes a questão ser avaliada tendo em conta o superior interesse da criança, por exemplo, nos casos que envolvam acordos entre as partes."
+#+end_quote
+
+De qualquer modo, não há um /dever incondicional/ de dar à criança uma oportunidade de ser ouvida. Há apenas esse dever, depois de o tribunal aferir se ela é ou não capaz de formar as suas próprias opiniões.
+
+Em conclusão: atendendo à idade de *Ana* parece-me que o Tribunal deveria conceder-lhe a oportunidade de ser ouvida. Ainda assim, tal poderia não suceder caso o tribunal concluísse que ela não era capaz de formar as suas próprias opiniões.
+
 *** (iii) Pode proferir decisão de recusa se vigorar na Irlanda uma decisão judicial que impede *Benny* de se aproximar de *Ana* e das crianças e os serviços sociais Irlandeses estarem disponíveis para acolher *Ana* e as crianças no âmbito do programa nacional destinado a proteger as vítimas de violência doméstica?
+
+*10. Fundamentos de recusa da Convenção da Haia de 1980. Considerações iniciais*.
+
 ** *Questão 4*: Admita agora, que na pendência do processo, *Ana* e *Benny* acordam que a melhor solução para as crianças é o não regresso e que o direito de guarda sobre as mesmas deve ser atribuído a *Ana*, sem prejuízo de ser necessário o consentimento de *Benny* para efetuar uma alteração de residência habitual, e que *Benny* teria o direito de visita uma vez por mês e 15 dias durante as férias de verão. O tribunal português pode atribuir efeitos vinculativos a este acordo?
+
+*XX. A procura de uma solução e a possibilidade de concentração de competências em matéria de rapto e de responsabilidade parental*. O Regulamento introduz no artigo 25.º a possibilidade de recorrer a meios alternativos de resolução de litígios, em particular a mediação. Esta possibilidade de recurso a mediação, desde que não protela o proferimento de uma decisão, é vista com bons olhos, uma vez que uma solução alcançada com o acordo de ambos os progenitores é uma solução com maiores probabilidades de ser por ambos cumprida.
+
+Para além disso, há que referir que a solução acordada por *Ana* e *Benny* envolve não só a resolução da questão do rapto internacional, mas também a regulação das responsabilidades parentais, matéria para a qual seriam primariamente competentes os tribunais do Estado-Membro da residência habitual das crianças antes da deslocação ou retenção ilícitas (Irlanda; art. 9.º).
+
+Contudo, como resulta de forma clara do início do artigo 9.º essa competência é sem prejuízo da competência atribuída nos termos de um pacto de jurisdição, previsto no artigo 10.º.
+
+Aliás, para além das casos de concentração da competência em matéria de ações matrimoniais e de responsabilidade parental, a outra concentração que me parece muito útil na prática é a de concentrar a competência para a ação de regresso nos termos da Convenção da Haia de 1980 e para regular as responsabilidades parentais. Isso mesmo é indiciado no considerando n.º 43.
+
+#+begin_quote
+"(...) Se, no decurso do processo de regresso previsto na Convenção da Haia de 1980, os pais chegarem a acordo não só sobre o regresso ou a retenção da criança, mas também sobre outras matérias de responsabilidade parental, o presente regulamento deverá, em determinadas circunstâncias, permitir que eles acordem em que o tribunal chamado a pronunciar-se ao abrigo da Convenção da Haia de 1980 tenha competência para conferir efeitos jurídicos vinculativos ao seu acordo, incorporando-o numa decisão, aprovando-o ou utilizando qualquer outra forma prevista no direito e nos procedimentos nacionais. Os Estados-Membros que tenham concentrado a competência deverão, por conseguinte, considerar a possibilidade de permitir que o tribunal onde foi instaurado o processo de regresso ao abrigo da Convenção da Haia de 1980
+exerça também a competência acordada ou aceite entre as partes nos termos do presente regulamento em matéria de responsabilidade parental quando tenha sido alcançado acordo entre as partes no decurso desse processo de
+regresso." (Considerando n.º 43)
+#+end_quote
+
+*XX. Condições para o estabelecimento de competência através de um pacto: 1.ª condição cumulativa: ligação estreita da criança ao Estado-Membro designado (art. 10.º, n.º 1, al. /a)/)*.
+
+O pacto só será admissível quando haja uma ligação estreita entre a criança e o Estado-Membro designado no pacto. No artigo 10.º, n.º 1, al. /a)/ indica-se uma lista /exemplificativa/ de situações em que há um conexão estreita.
+
+No nosso caso, verifica-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa).
+
+*4. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. /b)/)*. Resulta das duas subalíneas do artigo 10.º, n.º 1, al. /b)/, que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo /ou/ pode ser efetuado no decurso e dentro do processo. No nosso caso parece que o acordo seria feito durante o processo.
+
+*Validade formal do acordo:* sendo o acordo efetuado durante e dentro do processo, as regras formais que devem ser seguidas são as do Estado-Membro do foro (art. 10.º, n.º 2 e considerando n.º 23), relevando-se que o tribunal deve assegurar que todas as partes foram informadas do seu direito de não aceitar a competência (art. 10.º, n.º 2). Trata-se de uma obrigação algo semelhante à que existe no artigo 26.º, n.º 2, do Regulamento Bruxelas I /bis/.
+
+*Identificação das partes:* o acordo deve ser celebrado pelas pessoas que são (ou serão) partes no processo. Regra geral, serão os progenitores das crianças. Podem também ser outras pessoas que sejam os titulares do exercício das responsabilidades parentais (por exemplo, no caso de colocação de crianças numa instituição). Todavia, há que prestar atenção à jurisprudência do TJ proferida em sede de Bruxelas II /bis/:
+
+- No Acórdão de 31 de maio de 2018, /Valcheva/, C-335/17, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-335%252F17&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=191678][EU:C:2018:359]], o TJ concluiu que os avós a quem foi atribuído um direito de visita eram titulares da responsabilidade da criança;
+
+- No Acórdão de 19 de abril de 2018, /Saponaro/, C-565/16, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-565%252F16&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=nl&lg=&page=1&cid=192583][EU:C:2018:265]], o TJ referiu, quando ao procurador público grego:
+
+  #+begin_quote
+29      Há, portanto, que considerar que um procurador que, segundo o direito nacional, tem a qualidade de parte no processo em ações como a que está em causa no processo principal e que representa o interesse do menor, é uma parte no processo, na aceção do artigo 12.°, n.° 3, alínea b), do Regulamento n.° 2201/2003. Por conseguinte, a sua oposição a uma extensão de competência não pode ser ignorada.
+  #+end_quote
+
+*Pergunta aos formandos:* atendendo à jurisprudência do caso /Saponaro/ como deve ser caracterizada a participação do Ministério Público nos processos de respnsabilidade parental que correm termos nos tribunais portugueses? Deve ser considerado, ou não, uma parte de pleno direito?
+
+A resposta a esta questão é muito importante, porque nos termos do artigo 10.º, n.º 1, al. /b)/, e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
+
+*5. 3.ª condição cumulativa: o exercício da competência pelo tribunal designado no pacto tem de ser /no superior interesse da criança/ (art. 10.º, n.º 1, al. /c)/)*. Em primeiro lugar, chama-se a atenção para o considerando 19:
+
+#+begin_quote
+As regras de competência em matéria de responsabilidade parental *são definidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse*. *Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do artigo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»)*, aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
+#+end_quote
+
+O artigo 24.º da Carta estabelece:
+
+#+begin_quote
+Artigo 24.º
+
+*Direitos das crianças*
+
+1. As crianças têm direito à proteção e aos cuidados necessários ao seu bem-estar. Podem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade.
+2. Todos os atos relativos às crianças, quer praticados por entidades públicas, quer por instituições privadas, terão primacialmente em conta o interesse superior da criança.
+3. Todas as crianças têm o direito de manter regularmente relações pessoais e contactos diretos com ambos os progenitores, exceto se isso for contrário aos seus interesses.
+#+end_quote
+
+O artigo 3.º da CNUDC estabelece:
+
+#+begin_quote
+Artigo 3.º
+1. Todas as decisões relativas a crianças, adoptadas por instituições públicas ou privadas de protecção social, por tribunais, autoridades administrativas ou órgãos legislativos, terão primacialmente em conta o interesse superior da criança.
+2. Os Estados Partes comprometem-se a garantir à criança a protecção e os cuidados necessários ao seu bem-estar, tendo em conta os direitos e deveres dos pais, representantes legais ou outras pessoas que a tenham legalmente a seu cargo e, para este efeito, tomam todas as medidas legislativas e administrativas adequadas.
+3. Os Estados Partes garantem que o funcionamento de instituições, serviços e estabelecimentos que têm crianças a seu cargo e asseguram a sua protecção seja conforme às normas fixadas pelas autoridades competentes, nomeadamente nos domínios da segurança e saúde, relativamente ao número e qualificação do seu pessoal, bem como quanto à existência de uma adequada fiscalização.
+#+end_quote
+
+O superior interesse da criança na jurisprudência do TJ:
+
+- No Acórdão de 12 de novembro de 2014, /L/, C-656/13, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-656%252F13&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=en&lg=&page=1&cid=197974][EU:C:2014:2364]], o TJ esclareceu que a análise do superior interesse da criança tem de ser casuística:
+
+  #+begin_quote
+  58      Importa acrescentar que, quando é submetido um processo a um tribunal nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, *o superior interesse da criança só pode ser assegurado através de uma análise, em cada caso concreto, da questão de saber se a extensão de competência pretendida é compatível com esse superior interesse*, e que uma extensão de competência, nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, apenas produz efeitos para o processo específico submetido ao tribunal cuja competência é objeto de extensão (v., neste sentido, acórdão E, EU:C:2014:2246, n.os 47 e 49). (negritos aditados)
+  #+end_quote
+
+- No Acórdão de 19 de abril de 2018, /Saponaro/, C-565/16, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-565%252F16&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=nl&lg=&page=1&cid=192583][EU:C:2018:26]], esclareceu que a aceitação da competência não deve ser suscetível de ter um impacto negativo na situação do menor:
+
+  #+begin_quote
+  No Acórdão de 27 de outubro de 2016, D. (C-428/15, EU:C:2016:819, n.º 58), relativo à interpretação do artigo 15.º do Regulamento n.º 2201/2013, consagrado à transferência para um tribunal mais bem colocado para apreciar a ação, o Tribunal de Justiça concluiu que a exigência de que a transferência sirva o superior interesse da criança implica que o tribunal competente se certifique, à luz das circunstâncias concretas do processo, de que a transferência equacionada deste último para um tribunal de outro Estado-Membro não é suscetível de ter um impacto negativo na situação do menor.
+  #+end_quote
+
+*Pergunta para os formandos:* a aceitação da competência pelo tribunal português acarreta o prejuízo para a situação do menor?
+
+A resposta a esta questão deve ser dada no caso concreto e é decisiva para a aceitação da competência. O pacto só produzirá os seus efeitos se o tribunal português considerar que o exercício da competência que lhe é atribuída pelo pacto respeita o superior interesse criança. Em suma: o tribunal tem uma palavra decisiva a dizer quanto a admissibilidde do pacto. Diria que neste caso, a aceitação da competência não acarreta prejuízo para as crianças, já que ela que vai permitir viabilizar o acordo que soluciona não só a situação de rapto internacional, como a regulação das responsabilidades parentais.
+
+
 ** *Questão 5:* Considere agora que não houve acordo entre os progenitores e  que o tribunal português de primeira instância proferiu uma decisão de regresso.
 *** (i) O tribunal pode declará-la executória, independentemente de qualquer recurso?
+
+*XX. Direito processual civil internacional material: a possibilidade de declarar a decisão que ordena o regresso executoria*. Sim. Essa possibilidade é expressamente consagrada no pelo artigo 27.º, n.º 6:
+
+#+begin_quote
+"Uma decisão que ordene o regresso da criança pode ser declarada executória a título provisório, não obstante qualquer recurso, se o regresso da criança antes da decisão sobre o recurso for exigido pelo superior interesse da criança"
+#+end_quote
+
 *** (ii) /Quid iuris/ se *Ana*, antecipando que a decisão lhe seria desfavorável, se deslocou, com as crianças, para França.
+
+*XX. A possibilidade de execução noutros Estados-Membros das decisões que ordenam o regresso*. A decisão portuguesa de regresso pode ser executada em França (arts. 2.º, n.º 1, alínea /a)/, 35.º, n.º 1 e 36.º, n.º 1, alínea /c)/).
+
+Tal significa que *Benny* tem dois caminhos alternativos que pode seguir: (i) pedir a execução da decisão de regresso portuguesa em França; ou (ii) instaurar nova ação, junto dos tribunais franceses, a pedir o regresso da criança.
+
+Se optar por pedir a execução da decisão portuguesa precisa de apresentar:
+1. cópia da decisão portuguesa (art. 35.º, n.º 1, alínea /a)/); e
+2. certidão (art. 35.º, n.º 1, alínea /b)/).
+
+A certidão é emitida pelo tribunal português de 1.ª instância (juízos de família e menores ou, na sua falta, juízos locais cíveis ou, na sua falta, juízos de competência genérica), nos termos do artigo 36.º, n.º 1, alínea /c)/ e segundo o formulário que consta como Anexo IV.
+
+A certidão não é objeto de impugnação (art. 36.º, n.º 3), só podendo ser pedida a sua rectificação (art. 37.º)
+
 ** *Questão 6*: Admita agora que, após ouvir *Ana*, *Benny*, *Charles* e *Diane* o tribunal português proferiu uma decisão de não regresso. Durante a pendência do processo, *Benny* informou o tribunal português de que se encontra pendente, desde 1 de dezembro de 2022, em tribunal irlandês, uma ação relativa a regulação das responsabilidade parentais de *Charles* e *Diane*.
 *** (i) Determine quais os tribunais que tinham competência internacional para regular o exercício das responsabilidades parentais.
 *** (ii) O tribunal português fundamenta a decisão de não regresso com base na oposição da criança. Como deve atuar o tribunal português?
