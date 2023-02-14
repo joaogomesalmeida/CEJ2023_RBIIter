@@ -4,8 +4,10 @@
 #+LANGUAGE: pt
 #+OPTIONS: date:nil toc:nil num:nil
 #+LATEX_COMPILER: xelatex
+#+cite_export: csl chicago-fullnote-bibliography.csl
 
-* Caso prático 1
+
+* Caso prático
 
 *Ana*, nacional portuguesa, e *Benny*, nacional irlandês, são os pais de duas crianças, ambas, luso-irlandesas, *Charles*, nascido em 1 de outubro de 2006, e *Diane*, nascida em 1 de dezembro de 2012.
 
@@ -41,5 +43,170 @@ A família residia habitualmente na Irlanda desde 2006. Em 10 de agosto de 2022,
 
 (iii) O tribunal irlandês profere, em 13 de dezembro de 2022 e após ouvir *Ana*, *Benny*, *Charles* e *Diane*, uma decisão que atribui o direito de guarda em exclusivo a *Benny* e concede direitos de visita a *Ana*, fixando a residência habitual das crianças na Irlanda. Como pode esta decisão ser executada em Portugal?
 
+* Tópicos de resolução :noexport:
+** *Questão 1:* Sabendo que *Ana* e *Benny* não são casados entre si e que, segundo o Direito material irlandês, o pai natural dos menores não beneficia de pleno direito do direito de guarda, aprecie a admissibilidade da ação intentada por *Benny*.
 
-* Tópicos de resolução
+*1. Âmbitos de aplicação.* São quatro os âmbitos de aplicação do Regulamento Bruxelas II /ter/ (doravante os considerandos e artigos indicados sem indicação de fonte pertencem a este Regulamento).
+
+/Em primeiro lugar/, há que verificar se a situação em litígio tem /incidência transfronteiriça/ (cf. considerandos 2 a 4). Nesta questão estamos perante uma alegada situação de rapto internacional de crianças e basta a deslocação dos menores da Irlanda para Portugal para verificarmos que a situação implica "um elemento internacional" (considerando 2) ou ter "implicações transfronteiriças" (considerandos 3 e 4).
+
+/Em segundo lugar/, há que verificar se o âmbito de aplicação territorial, ou em razão do território, se encontra preenchido. O Regulamento é aplicável no território de todos os Estados-Membros, com exceção da Dinamarca (considerandos 95 e 96). Como a ação é intentada junto dos tribunais portugueses este âmbito de aplicação está preenchido.
+
+/Em terceiro lugar/, há que verificar o âmbito de aplicação temporal. Nos termos do artigo 100.º, n.º 1, o Regulamento é aplicável apenas às ações intentadas, aos atos autênticos formalmente exarados e aos acordos registados a partir de 1 de agosto de 2022.
+
+A determinação da data em que foi instaurada uma ação deve ser feita de acordo com o artigo 17.º. Temos um conceito autónomo tripartido. Há que olhar para o Direito processual do Estado-Membro do foro e determinar quando se considera intentada uma ação (neste caso de divórcio). No Direito processual português ela considera-se intentada na data em que foi apresentada ao tribunal a respetiva petição (art. 259.º do CPC). Logo, essa é a data relevante, nos termos do artigo 16.º, al. /a)/. A ação de regresso foi intentada em /15 de setembro de 2022/, logo depois de 1 de agosto de 2022. O âmbito de aplicação temporal está preenchido.
+
+/Em quarto lugar/, há que verificar o âmbito de aplicação material. Para isso há que analisar o artigo 1.º. Nos termos do artigo 1.º, n.º 3, as regras do Regulamento Bruxelas II /ter/ são aplicáveis aos casos de rapto internacional de crianças que afetem mais de um Estado-Membro, em complemento das regras da Convenção da Haia de 1980 sobre Rapto Internacional de Crianças (doravante Convenção da Haia de 1980). Logo, o âmbito de aplicação material está verificado.
+
+Verificados todos os âmbitos de aplicação, o Regulamento é aplicável.
+
+*2. Âmbitos de aplicação da Convenção da Haia de 1980.* Vejamos, agora, sucintamente, os âmbitos de aplicação da Convenção da Haia de 1980.
+
+/Em primeiro lugar/ a Convenção só se preocupa com a deslocação ou retenção ilícitas que tenham um carácter internacional
+
+/Em segundo lugar/ a Convenção só se aplica nos casos em que a criança ilicitamente deslocada ou retida tinha residência habitual num Estado Contratante imediatamente antes dessa deslocação ou retenção (art. 4.º da Convenção da Haia de 1980). A criança tem de ter idade inferior a 16 anos.
+
+/Em terceiro lugar/, as regras da Convenção aplicam-se apenas as deslocações ou retenções ilícitas que ocorreram depois da entrada em vigor da Convenção nos dois Estados Contratantes envolvidos (o da residência habitual anterior e o da deslocação ou retenção ilícitas), nos termos do art. 35.º da Convenção da Haia de 1980. No seio da União Europeia, esta questão já não é relevante atendendo a que a Convenção se encontra em vigor há muito tempo (em Portugal desde 1 de dezembro de 1983 e na Irlanda desde 1 de outubro de 1991), mas a questão pode ser relevante para as relações com Estados Contratantes recentes (a Convenção entrou em vigor no Botswana no passado dia 1 de fevereiro).
+
+/Em quarto lugar/ o âmbito de aplicação material é o da /deslocação ou retenção ilícitas/ de crianças, conforme resulta dos artigos 1.º e 3.º da Convenção da Haia de 1980.
+
+*3. Relação entre a Convenção da Haia de 1980 e o Regulamento Bruxelas II /ter/*. Aqui o Regulamento Bruxelas II /ter/ torna mais claro o que já resultava do considerando n.º 17 do Regulamento Bruxelas II /bis/ e dos pontos 77 e 78 do [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=1%252F13&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lg=&page=1&cid=25022][Parecer 1/13]] do Tribunal de Justiça da União Europeia:
+
+#+begin_quote
+"(17)  Em caso de deslocação ou de retenção ilícitas de uma criança, deve ser obtido sem demora o seu regresso; para o efeito, deverá continuar a aplicar-se a Convenção de Haia de 25 de Outubro de 1980, completada pelas disposições do presente regulamento, nomeadamente o artigo 11.º. (...)"
+#+end_quote
+
+e
+
+#+begin_quote
+"77 O Regulamento n.° 2201/2003 completa e precisa, nomeadamente no seu artigo 11.°, as referidas regras convencionais. (...)
+
+78 Do conteúdo de todas as disposições do Regulamento n.º 2201/2003 evocadas no número anterior decorre que as mesmas se baseiam nas regras da Convenção de Haia de 1980 ou preveem consequências a extrair da aplicação destas últimas. Estas duas categorias de disposições constituem assim um conjunto normativo indivisível, aplicável aos procedimentos de regresso de crianças ilicitamente deslocadas dentro da União."
+#+end_quote
+
+No Regulamento Bruxelas II /ter/ consagrou-se esta ideia no artigo 96.º:
+
+#+begin_quote
+"Se uma criança tiver sido ilicitamente transferida ou retida num Estado-Membro que não o da sua residência habitual imediatamente antes da deslocação ou retenção ilícitas, continuam a ser aplicáveis as disposições da Convenção da Haia de 1980, complementadas pelos capítulos III e VI do presente regulamento. Se uma decisão que decreta o regresso da criança nos termos da Convenção da Haia de 1980 que foi proferida num Estado-Membro tiver de ser reconhecida e executada noutro Estado-Membro na sequência de nova deslocação ou retenção ilícita da criança, é aplicável o capítulo IV."
+#+end_quote
+
+Em suma, as regras do Regulamento Bruxelas II /ter/ só serão aplicáveis nos casos em que a anterior residência habitual da criança e o local da sua deslocação ou retenção ilícitas sejam Estados-Membros da União Europeia vinculados ao Regulamento Bruxelas II /ter/ (todos, com exceção da Dinamarca).
+
+*4. Conceito de deslocação ou retenção ilícitas*. Quer a Convenção da Haia de 1980, quer o Regulamento Bruxelas II /ter/, definem o conceito de deslocação ou retenção ilícita.
+
+A Convenção da Haia de 1980, no seu artigo 3.º:
+
+#+begin_quote
+"A deslocação ou a retenção de uma criança é considerada ilícita quando:
+
+a) Tenha sido efectivada em violação de um direito de custódia atribuído a uma pessoa ou a uma instituição ou a qualquer outro organismo, individual ou conjuntamente, pela lei do Estado onde a criança tenha a sua residência habitual imediatamente antes da sua transferência ou da sua retenção; e
+b) Este direito estiver a ser exercido de maneira efectiva, individualmente ou em conjunto, no momento da transferência ou da retenção, ou o devesse estar se tais acontecimentos não tivessem ocorrido.
+
+O direito de custódia referido na alínea a) pode designadamente resultar quer de uma atribuição de pleno direito, quer de uma decisão judicial ou administrativa, quer de um acordo vigente segundo o direito deste Estado."
+#+end_quote
+
+O Regulamento Bruxelas II /ter/ na alínea 11) do n.º 2 do artigo 2.º:
+
+#+begin_quote
+"11) «Deslocação ou retenção ilícitas»: a deslocação ou a retenção de uma criança, quando:
+a) viole o direito de guarda conferido por decisão judicial, por atribuição de pleno direito ou por acordo em vigor nos termos do direito do Estado-Membro onde a criança tinha a sua residência habitual imediatamente antes da deslocação ou retenção; e
+b) no momento da deslocação ou retenção, o direito de guarda estivesse a ser efetivamente exercido, quer conjunta, quer separadamente, ou devesse estar a sê-lo, caso não tivesse ocorrido a deslocação ou retenção."
+#+end_quote
+
+As duas definições são, essencialmente, /idênticas/. Verifica-se uma aparente omissão na definição do Regulamento Bruxelas II /ter/, que não menciona a atribuição do direito de guarda por decisão administrativa. Dizemos aparente, porque o conceito de decisão judicial no Regulamento Bruxelas II /ter/ permite também abarcar decisão de autoridades administrativas quando elas tenham competência em matéria de responsabilidade parental (cf. artigo 2.º, n.º 1 e n.º 2, alínea 1) do Regulamento Bruxelas II /ter/).
+
+No caso é mais próximo de uma situação de retenção do que de deslocação, pois parece que a deslocação pelo período das férias não tinha merecido oposição do outro progenitor.
+
+Mas para, neste caso, a retenção ser considerada /ilícita/ têm de se verificar dois pressupostos: (i) que *Benny* tenha o direito de guarda e (ii) que *Benny* estivesse efetivamente a exercê-lo, não fosse a retenção.
+
+Nos casos em que não haja decisão judicial, decisão administrativa ou acordo sobre a atribuição das responsabilidade parentais, a questão vai depender de saber se *Benny* tinha ou não o direito de guarda sobre as crianças por mero efeito do Direito aplicável.
+
+Antes da deslocação, as crianças tinham residência habitual na Irlanda. De acordo com a Convenção da Haia de 1996 (aplicável quer na Irlanda quer em Portugal), a atribuição de responsabilidades parentais /ope legis/ é regulada pela lei da residência habitual da criança, ou seja, pela lei irlandesa. Segundo a lei irlandesa, ao pai não casado com a mãe não é atribuído, por mero efeito da lei, o direito de guarda sobre as crianças. Conclusão: *Benny* não era titular do direito de guarda e, como tal, a retenção feita por *Ana* das crianças em Portugal não pode ser considerada uma deslocação ou retenção ilícitas, pois não violou o (inexistente) direito de guarda de *Benny*.
+
+A retenção é lícita.
+
+*Pergunta para os formandos:* será que esta solução (que depende do direito material irlandês) viola a Carta dos Direitos Fundamentais da União Europeia, em particular o seu art. 7.º e 24.º?
+
+#+begin_quote
+"Todas as pessoas têm direito ao respeito pela sua vida privada e familiar, pelo seu domicílio e pelas suas comunicações." (Artigo 7.º)
+#+end_quote
+
+#+begin_quote
+"1 As crianças têm direito à proteção e aos cuidados necessários ao seu bem-estar. Podem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade.
+
+2 Todos os atos relativos às crianças, quer praticados por entidades públicas, quer por instituições privadas, terão primacialmente em conta o interesse superior da criança.
+
+3 Todas as crianças têm o direito de manter regularmente relações pessoais e contactos diretos com ambos os progenitores, exceto se isso for contrário aos seus interesses." (Artigo 24.º)
+#+end_quote
+
+A questão foi abordado pelo TJ no Acórdão de 5 de outubro de 2010, /J. McB contra L.E./, C-400/10 PPU, EU:C:2010:582.
+
+O TJ concluíu, à semelhança do TEDH, que não há violação da carta na não atribuição /ope legis/ ao pai natural não casado, desde que o Direito do Estado permite que ele peça a atribuição antes da deslocação ou retenção (cons. 52 a 64).
+
+** *Questão 2:* Admita agora (e para as questões seguintes) que existia uma decisão judicial irlandesa que atribuía o direito de guarda relativo a *Charles* e a *Diane* conjuntamente a *Ana* e a *Benny*. A resposta alterava-se? E a data em que essa apreciação seria feita é de algum modo relevante?
+
+*5. Direito de guarda proveniente de decisão judicial*. Nesta segunda questão, foi atribuído a *Ana* e a *Benny*, por decisão judicial irlandesa, um direito de guarda conjunto sobre as crianças.
+
+Deste modo, *Ana* não pode decidir /sozinha/ a residência habitual das crianças. A retenção das crianças em Portugal para além do período de férias constitui uma violação do direito de guarda de *Benny* e é, por isso, uma retenção ilícita.
+
+*Questão /ad latere/:* a questão não menciona, mas podem surgir problemas complexos quando se tratem de decisões judiciais que atribuem a guarda a apenas uma pessoa, e que, apesar de não transitadas em julgado, produzam os seus efeitos.
+
+/Quid iuris/ se uma nova decisão irlandesa atribuísse o direito de guarda e o de fixar a residência habitual das crianças apenas a *Ana*. Com base nessa decisão *Ana* mudasse a residência habitual das crianças para Portugal e, posteriormente à mudança, *Benny* recorresse da decisão e os tribunais superiores anulassem a mesma, passado um ano. Houve ou não deslocação ilícita das crianças por parte de *Ana*?
+
+/Resposta:/ a questão é muito sensível, mas foi já abordada pelo TJ no Acórdão de 9 de outubro de 2014, /C contra M/, EU:C:2014:2268. Neste acórdão ele decidiu:
+
+#+begin_quote
+1)      Os artigos 2.°, ponto 11, e 11.° do Regulamento (CE) n.° 2201/2003 do Conselho, de 27 de novembro de 2003, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e que revoga o Regulamento (CE) n.° 1347/2000, devem ser interpretados no sentido de que, quando a deslocação da criança ocorreu em conformidade com uma decisão judicial executória provisoriamente que foi em seguida revogada por uma decisão judicial que fixava a residência da criança no domicílio do progenitor que permanece no Estado‑Membro de origem, o órgão jurisdicional do Estado‑Membro para onde a criança foi deslocada, chamado a pronunciar‑se sobre um pedido de regresso da criança, deve verificar, ao proceder à avaliação de todas as circunstâncias específicas do caso, se a criança ainda tinha a sua residência habitual no Estado‑Membro de origem imediatamente antes da retenção ilícita alegada. No âmbito desta avaliação, há que ter em conta o facto de a decisão judicial que autorizava a deslocação poder ser executada provisoriamente e ter sido objeto de recurso.
+
+2)      O Regulamento n.° 2201/2003 deve ser interpretado no sentido de que, quando a deslocação da criança ocorreu em conformidade com uma decisão judicial executória provisoriamente que foi em seguida revogada por uma decisão judicial que fixava a residência da criança no domicílio do progenitor que permanece no Estado‑Membro de origem, a retenção da criança noutro Estado‑Membro na sequência dessa segunda decisão é ilícita e o artigo 11.° desse regulamento é aplicável se se considerar que a criança ainda tinha a sua residência habitual no referido Estado‑Membro imediatamente antes dessa retenção. Se, pelo contrário, se considerar que nesse momento a criança já não tinha a sua residência habitual no Estado‑Membro de origem, a decisão que julga improcedente o pedido de regresso baseado nessa disposição é adotada sem prejuízo da aplicação das regras relativas ao reconhecimento e à execução de decisões proferidas num Estado‑Membro previstas no capítulo III do mesmo regulamento.
+#+end_quote
+
+Em suma, tudo parece assentar no decurso de tempo e na questão de saber se a criança mudou (licitamente) de residência habitual enquanto vigorou a decisão que conferia o direito de guarda exclusivo a *Ana*.
+
+*6. O conceito de criança para efeitos de rapto internacional de crianças*. De acordo com o caso, *Charles* nasceu em 1 de outubro de 2006 e *Diane*, nasceu em 1 de dezembro de 2012.
+
+A ação foi intentada a 15 de setembro de 2022, ou seja a 15 dias de *Charles* fazer 16 anos e quando *Diane* tinha 9 anos de idade (faria 10 anos cerca de mês e meio depois da data de propositura da ação).
+
+De acordo com o artigo 2.º, n.º 2, alínea 6) do Regulamento Bruxelas II /ter/, criança, para efeitos do Regulamento, é qualquer pessoa com menos de 18 anos. Aparentemente ambos seriam crianças.
+
+É necessário, porém, salientar que o conceito de criança na Convenção da Haia de 1980 é diferente, como decorre do seu artigo 4.º:
+
+#+begin_quote
+"A Convenção aplica-se a qualquer criança com residência habitual num Estado Contratante, imediatamente antes da violação do direito de custódia ou de visita. A aplicação da Convenção cessa quando a criança atingir a idade de 16 anos."
+#+end_quote
+
+Não nos podemos esquecer que resulta as regras do Regulamento Bruxelas II /ter/ em matéria de rapto internacional de crianças /visam complementar/ a Convenção da Haia de 1980. Como tal, e logicamente, o conceito de criança relevante para efeitos de rapto internacional de crianças /é o da Convenção e não o do Regulamento/. Isso mesmo é expressamente referido no considerando n.º 17 do Regulamento e resulta também do artigo 22.º do Regulamento Bruxelas II /ter/:
+
+#+begin_quote
+"(...) A Convenção da Haia de 1980, e, consequentemente, também o capítulo III do presente regulamento, que complementa a aplicação da Convenção da Haia de 1980 nas relações entre os Estados-Membros, deverá continuar a ser aplicável às crianças até aos 16 anos de idade." (considerando n.º 17)
+
+"Os artigos 23.º a 29.º e o capítulo VI do presente regulamento são aplicáveis e complementam a Convenção da Haia de 1980 quando uma pessoa, instituição ou outro organismo que alegue a violação do direito de guarda pedir, diretamente ou com a assistência de uma autoridade central, a um tribunal de um Estado-Membro que profira uma decisão, baseada na Convenção da Haia de 1980, que ordene o regresso de *uma criança com menos de 16 anos* que tenha sido ilicitamente deslocada ou retida num Estado-Membro que não o da sua residência habitual imediatamente antes da deslocação ou retenção ilícitas." (art. 22.º)
+#+end_quote
+
+Em suma: os artigos 23.º a 29.º e o Capítulo IV do Regulamento só são aplicáveis a situações de rapto internacional de crianças, entendendo-se como tal as pessoas com menos de 16 anos de idade.
+
+*7. Idade da criança e momento em que é aferida a competência*. A regra geral do Regulamento é a costumeira: a competência internacional dos tribunais afere-se com referência à data em que foi proposta a ação.
+
+A 15 de setembro de 2022, as duas crianças tinham menos de 16 anos de idade. Porém, a 1 de outubro de 2022, *Charles* terá 16 anos de idade. A Convenção da Haia de 1980, no seu artigo 4.º estabelece como regra que "a aplicação da Convenção cessa quando a criança atingir a idade de 16 anos."
+
+Como se refere no Relatório Explicativo, a Convenção adotou a posição mais restritiva:
+
+#+begin_quote
+"(...) no action or decision based upon the Convention's provisions can be taken with regard to a child after its sixteenth birthday."[cite:@perez-vera1980 p. 450, ponto 77]
+#+end_quote
+
+
+
+
+** *Questão 3:* *Ana* alega que era vítima de violência doméstica levada à cabo por *Benny*, juntando vários relatórios de várias deslocações às urgências médicas para tratar ferimentos físicos e declaração assinada por *Ella*, irlandesa vizinha do casal, em como tinha presenciado *Benny* injuriar, ameaçar e agredir *Ana*. Diga se o tribunal português:
+*** (i) Pode proferir decisão de recusa sem ouvir *Benny*?
+*** (ii) Pode proferir decisão de recusa sem conceder à conceder à criança a oportunidade de ser ouvida?
+*** (iii) Pode proferir decisão de recusa se vigorar na Irlanda uma decisão judicial que impede *Benny* de se aproximar de *Ana* e das crianças e os serviços sociais Irlandeses estarem disponíveis para acolher *Ana* e as crianças no âmbito do programa nacional destinado a proteger as vítimas de violência doméstica?
+** *Questão 4*: Admita agora, que na pendência do processo, *Ana* e *Benny* acordam que a melhor solução para as crianças é o não regresso e que o direito de guarda sobre as mesmas deve ser atribuído a *Ana*, sem prejuízo de ser necessário o consentimento de *Benny* para efetuar uma alteração de residência habitual, e que *Benny* teria o direito de visita uma vez por mês e 15 dias durante as férias de verão. O tribunal português pode atribuir efeitos vinculativos a este acordo?
+** *Questão 5:* Considere agora que não houve acordo entre os progenitores e  que o tribunal português de primeira instância proferiu uma decisão de regresso.
+*** (i) O tribunal pode declará-la executória, independentemente de qualquer recurso?
+*** (ii) /Quid iuris/ se *Ana*, antecipando que a decisão lhe seria desfavorável, se deslocou, com as crianças, para França.
+** *Questão 6*: Admita agora que, após ouvir *Ana*, *Benny*, *Charles* e *Diane* o tribunal português proferiu uma decisão de não regresso. Durante a pendência do processo, *Benny* informou o tribunal português de que se encontra pendente, desde 1 de dezembro de 2022, em tribunal irlandês, uma ação relativa a regulação das responsabilidade parentais de *Charles* e *Diane*.
+*** (i) Determine quais os tribunais que tinham competência internacional para regular o exercício das responsabilidades parentais.
+*** (ii) O tribunal português fundamenta a decisão de não regresso com base na oposição da criança. Como deve atuar o tribunal português?
+*** (iii) O tribunal irlandês profere, em 13 de dezembro de 2022 e após ouvir *Ana*, *Benny*, *Charles* e *Diane*, uma decisão que atribui o direito de guarda em exclusivo a *Benny* e concede direitos de visita a *Ana*, fixando a residência habitual das crianças na Irlanda. Como pode esta decisão ser executada em Portugal?
