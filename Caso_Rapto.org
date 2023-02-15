@@ -245,11 +245,41 @@ Em conclusão: atendendo à idade de *Ana* parece-me que o Tribunal deveria conc
 
 *** (iii) Pode proferir decisão de recusa se vigorar na Irlanda uma decisão judicial que impede *Benny* de se aproximar de *Ana* e das crianças e os serviços sociais Irlandeses estarem disponíveis para acolher *Ana* e as crianças no âmbito do programa nacional destinado a proteger as vítimas de violência doméstica?
 
-*10. Fundamentos de recusa da Convenção da Haia de 1980. Considerações iniciais*.
+*10. Fundamentos de recusa da Convenção da Haia de 1980. Considerações iniciais*. São vários os fundamentos de uma decisão de recusa de regresso na Convenção da Haia de 1980:
+1. A ação de regresso foi instaurada passado mais de um ano da data da deslocação ou retenção ilícitas e a criança já se encontra integrada no seu novo ambiente (art. 12.º, 2.º parágrafo);
+2. O requerente não exercia efetivamente o direito de guarda na época da deslocação ou retenção ilícitas ou consentiu posteriormente com a deslocação ou retenção ilícitas (art. 13.º, alínea /a)/);
+3. Existe um risco grave de a criança, no seu regresso, ficar sujeita a perigos de ordem física ou psíquica, ou, de qualquer outro modo, a ficar numa situação intolerável (art. 13.º, alínea /b)/);
+4. A criança opõe-se ao regresso e tem já uma idade e um grau de maturidade que permitem tomar em consideração as suas opiniões sobre este assunto (art. 13.º, 2.º parágrafo);
+5. O regresso da criança não é consentâneo com os princípios fundamentais do Estado requerido relativos à protecção dos direitos do homem e das liberdades fundamentais (art. 20.º).
+
+Estes fundamentos de recusa são exceções à regra geral da Convenção de regresso, sem demoras, da criança ao Estado da sua residência habitual antes da deslocação ou retenção ilícitas. Por isso, devem ser objeto de uma interpretação estrita.
+
+*11. O fundamento assente no risco grave para a criança (art. 13.º, alínea /b)/ da Convenção da Haia de 1980*. O preceito prevê três tipos de riscos graves para a criança:
+1. Risco grave de que a criança, no seu regresso, fique sujeita a perigos de ordem física;
+2. Risco grave de que a criança, no seu regresso, fique sujeita a perigos de ordem psíquica; ou
+3. Risco grave de que a criança, no seu regresso, fique, de qualquer outro modo, numa situação intolerável.
+
+Cada um destes tipos de risco grave pode fundamentar, por si só, uma decisão de recusa de regresso da criança. Ainda assim, os três tipos de riscos graves costumam ser alegados em conjunto.
+
+*12. Risco grave da criança*. Pode discutir-se, em tese, se há um risco grave da criança, quando o que é alegado é violência doméstica do progenitor que ficou sem a criança sobre o progenitor raptor.
+
+Em primeiro lugar, assinala-se que embora os riscos devem ser aferidos em função da criança, tem sido entendido que, em circunstâncias excecionais, os perigos para os progenitores podem criar um risco grave para a criança.
+
+Em segundo lugar, pode afirmar-se que, em caso de violência doméstica de um progenitor sobre outro, a vivência dessa situação pela criança pode constituir um risco grave de perigo de ordem psíquica, bem como um risco grave de separação do progenitor raptor, caso este entenda que não tem condições de segurança para regressar, na sequência de uma decisão de regresso da criança.
+
+/Pergunta aos formandos:/ o que acham? Há aqui uma situação de risco grave para a criança?
+
+*13. Alegação de risco grave*.  tribunal deve considerar se as alegações são dessa natureza e se contêm pormenor e substância suficientes para constituir um risco grave. É muito improvável que alegações amplas ou gerais sejam suficientes. No caso, a *Ana* parece apresentar elementos concretos que consubstanciam as alegações de violência doméstica.
+
+/Pergunta aos formandos:/ o que acham? os elementos probatórios são suficientes para uma análise /prima facie/?
+
+*14. Possibilidade de decretar medidas provisórias que permitam o contacto entre a criança e o progenitor que ficou sem a criança*. art. 27.º/2
+
+*15. Medidas de proteção e comunicação*. art. 27.º/3 a 5
 
 ** *Questão 4*: Admita agora, que na pendência do processo, *Ana* e *Benny* acordam que a melhor solução para as crianças é o não regresso e que o direito de guarda sobre as mesmas deve ser atribuído a *Ana*, sem prejuízo de ser necessário o consentimento de *Benny* para efetuar uma alteração de residência habitual, e que *Benny* teria o direito de visita uma vez por mês e 15 dias durante as férias de verão. O tribunal português pode atribuir efeitos vinculativos a este acordo?
 
-*XX. A procura de uma solução e a possibilidade de concentração de competências em matéria de rapto e de responsabilidade parental*. O Regulamento introduz no artigo 25.º a possibilidade de recorrer a meios alternativos de resolução de litígios, em particular a mediação. Esta possibilidade de recurso a mediação, desde que não protela o proferimento de uma decisão, é vista com bons olhos, uma vez que uma solução alcançada com o acordo de ambos os progenitores é uma solução com maiores probabilidades de ser por ambos cumprida.
+*16. A procura de uma solução e a possibilidade de concentração de competências em matéria de rapto e de responsabilidade parental*. O Regulamento introduz no artigo 25.º a possibilidade de recorrer a meios alternativos de resolução de litígios, em particular a mediação. Esta possibilidade de recurso a mediação, desde que não protela o proferimento de uma decisão, é vista com bons olhos, uma vez que uma solução alcançada com o acordo de ambos os progenitores é uma solução com maiores probabilidades de ser por ambos cumprida.
 
 Para além disso, há que referir que a solução acordada por *Ana* e *Benny* envolve não só a resolução da questão do rapto internacional, mas também a regulação das responsabilidades parentais, matéria para a qual seriam primariamente competentes os tribunais do Estado-Membro da residência habitual das crianças antes da deslocação ou retenção ilícitas (Irlanda; art. 9.º).
 
@@ -263,13 +293,13 @@ exerça também a competência acordada ou aceite entre as partes nos termos do 
 regresso." (Considerando n.º 43)
 #+end_quote
 
-*XX. Condições para o estabelecimento de competência através de um pacto: 1.ª condição cumulativa: ligação estreita da criança ao Estado-Membro designado (art. 10.º, n.º 1, al. /a)/)*.
+*17. Condições para o estabelecimento de competência através de um pacto: 1.ª condição cumulativa: ligação estreita da criança ao Estado-Membro designado (art. 10.º, n.º 1, al. /a)/)*.
 
 O pacto só será admissível quando haja uma ligação estreita entre a criança e o Estado-Membro designado no pacto. No artigo 10.º, n.º 1, al. /a)/ indica-se uma lista /exemplificativa/ de situações em que há um conexão estreita.
 
 No nosso caso, verifica-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa).
 
-*4. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. /b)/)*. Resulta das duas subalíneas do artigo 10.º, n.º 1, al. /b)/, que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo /ou/ pode ser efetuado no decurso e dentro do processo. No nosso caso parece que o acordo seria feito durante o processo.
+*18. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. /b)/)*. Resulta das duas subalíneas do artigo 10.º, n.º 1, al. /b)/, que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo /ou/ pode ser efetuado no decurso e dentro do processo. No nosso caso parece que o acordo seria feito durante o processo.
 
 *Validade formal do acordo:* sendo o acordo efetuado durante e dentro do processo, as regras formais que devem ser seguidas são as do Estado-Membro do foro (art. 10.º, n.º 2 e considerando n.º 23), relevando-se que o tribunal deve assegurar que todas as partes foram informadas do seu direito de não aceitar a competência (art. 10.º, n.º 2). Trata-se de uma obrigação algo semelhante à que existe no artigo 26.º, n.º 2, do Regulamento Bruxelas I /bis/.
 
@@ -287,7 +317,7 @@ No nosso caso, verifica-se pelo menos uma das ligações indicadas (as crianças
 
 A resposta a esta questão é muito importante, porque nos termos do artigo 10.º, n.º 1, al. /b)/, e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
 
-*5. 3.ª condição cumulativa: o exercício da competência pelo tribunal designado no pacto tem de ser /no superior interesse da criança/ (art. 10.º, n.º 1, al. /c)/)*. Em primeiro lugar, chama-se a atenção para o considerando 19:
+*19. 3.ª condição cumulativa: o exercício da competência pelo tribunal designado no pacto tem de ser /no superior interesse da criança/ (art. 10.º, n.º 1, al. /c)/)*. Em primeiro lugar, chama-se a atenção para o considerando 19:
 
 #+begin_quote
 As regras de competência em matéria de responsabilidade parental *são definidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse*. *Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do artigo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»)*, aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
@@ -336,7 +366,7 @@ A resposta a esta questão deve ser dada no caso concreto e é decisiva para a a
 ** *Questão 5:* Considere agora que não houve acordo entre os progenitores e  que o tribunal português de primeira instância proferiu uma decisão de regresso.
 *** (i) O tribunal pode declará-la executória, independentemente de qualquer recurso?
 
-*XX. Direito processual civil internacional material: a possibilidade de declarar a decisão que ordena o regresso executoria*. Sim. Essa possibilidade é expressamente consagrada no pelo artigo 27.º, n.º 6:
+*20. Direito processual civil internacional material: a possibilidade de declarar a decisão que ordena o regresso executoria*. Sim. Essa possibilidade é expressamente consagrada no pelo artigo 27.º, n.º 6:
 
 #+begin_quote
 "Uma decisão que ordene o regresso da criança pode ser declarada executória a título provisório, não obstante qualquer recurso, se o regresso da criança antes da decisão sobre o recurso for exigido pelo superior interesse da criança"
@@ -344,7 +374,7 @@ A resposta a esta questão deve ser dada no caso concreto e é decisiva para a a
 
 *** (ii) /Quid iuris/ se *Ana*, antecipando que a decisão lhe seria desfavorável, se deslocou, com as crianças, para França.
 
-*XX. A possibilidade de execução noutros Estados-Membros das decisões que ordenam o regresso*. A decisão portuguesa de regresso pode ser executada em França (arts. 2.º, n.º 1, alínea /a)/, 35.º, n.º 1 e 36.º, n.º 1, alínea /c)/).
+*21. A possibilidade de execução noutros Estados-Membros das decisões que ordenam o regresso*. A decisão portuguesa de regresso pode ser executada em França (arts. 2.º, n.º 1, alínea /a)/, 35.º, n.º 1 e 36.º, n.º 1, alínea /c)/).
 
 Tal significa que *Benny* tem dois caminhos alternativos que pode seguir: (i) pedir a execução da decisão de regresso portuguesa em França; ou (ii) instaurar nova ação, junto dos tribunais franceses, a pedir o regresso da criança.
 
