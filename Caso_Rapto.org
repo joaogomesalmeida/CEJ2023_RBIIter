@@ -388,5 +388,83 @@ A certidão não é objeto de impugnação (art. 36.º, n.º 3), só podendo ser
 
 ** *Questão 6*: Admita agora que, após ouvir *Ana*, *Benny*, *Charles* e *Diane* o tribunal português proferiu uma decisão de não regresso. Durante a pendência do processo, *Benny* informou o tribunal português de que se encontra pendente, desde 1 de dezembro de 2022, em tribunal irlandês, uma ação relativa a regulação das responsabilidade parentais de *Charles* e *Diane*.
 *** (i) Determine quais os tribunais que tinham competência internacional para regular o exercício das responsabilidades parentais.
+
+*22. Competência em matéria de responsabilidades parentais nos casos de rapto internacional de crianças*. Sobre esta matéria dispõe o artigo 9.º do Regulamento Bruxelas II /ter/.
+
+Sem prejuízo de um pacto de jurisdição - que nesta questão não foi celebrado - são internacionalmente competentes os tribunais do Estado-Membro da residência habitual da criança antes da deslocação ou retenção ilícitas (Irlanda; art. 9.º), pois na hipótese não se verifica nenhuma das exceções previstas nas alíneas /a)/ e /b)/ do referido preceito.
+
+Os tribunais internacionalmente competentes em matéria de responsabilidades parentais eram os tribunais irlandeses.
+
+/Pergunta aos formandos:/ não é o caso da hipótese, mas poder-se-ia aplicar o art. 9.º do Regulamento Bruxelas II /ter/, por exemplo, para atribuir competência internacional aos tribunais portugueses num caso em que uma criança com residência habitual em Portugal fosse deslocada ou retida ilicitamente num Estado que não é um Estado-Membro da União Europeia?
+
+/Resposta:/ não. O TJ já esclareceu, em sede da regra paralela do Regulamento Bruxelas II /bis/ (art. 10.º), que:
+
+#+begin_quote
+"Resulta destas considerações que a regulamentação específica que o legislador da União quis instituir com a adoção do Regulamento n.º 2201/2003 visa os casos de raptos de crianças de um Estado‑Membro para outro. Daqui decorre que a regra de competência correspondente, a saber, a regra resultante do artigo 10.º do Regulamento n.º 2201/2003, não pode ser interpretada no sentido de que se aplica ao caso do rapto de uma criança para um Estado terceiro." (considerando n.º 57 do Acórdão de 24 de março de 2021, /SS contra MCP/, C-603/20 PPU, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-603%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=7335098][EU:C:2021:231]])
+#+end_quote
+
 *** (ii) O tribunal português fundamenta a decisão de não regresso com base na oposição da criança. Como deve atuar o tribunal português?
+
+*23. Procedimento no caso de decisão de recusa fundamentada /exclusivamente/ em risco grave da criança /ou/ na oposição da criança*. O artigo 29.º do Regulamento Bruxelas II /ter/ desenvolve as regras operacionais que já existiam no artigo 11.º, n.ºs 6 a 8, embora com algumas diferenças.
+
+Em primeiro lugar, o procedimento apenas é aplicável nos casos em que a decisão de não regresso se baseie no artigo 13.º, alínea /b)/ (risco grave da criança) ou no artigo 13.º, segundo parágrafo (oposição da criança). Embora não resulte do artigo, diremos que também se aplica quando a decisão de não regresso se baseie exclusiva e cumulativamente nestes dois fundamentos (neste sentido, cf. título do Anexo I do Regulamento).
+
+Estabelece-se uma obrigação de o tribunal que proferiu a decisão de não regresso (no caso, o tribunal português) informar o tribunal do Estado-Membro no qual está pendente uma ação de regulação do exercício das responsabilidades parentais, se ele souber que tal ação está pendente (no caso, o tribunal irlandês; cf. art. 29.º, n.º 3).
+
+O tribunal português deve remeter ao tribunal irlandês onde a ação de regulação das responsabilidades parentais, /no prazo de um mês a contar da data em que foi proferida a decisão de não regresso/, os seguintes elementos:
+1. cópia da decisão de não regresso; e
+2. certidão utilizando o formulário que consta como Anexo I do Regulamento; e
+3. transcrição, resumo ou atas das audições perante o tribunal e quaisquer outros documentos que considere pertinentes.
+
+O tribunal pode remeter esta informação diretamente para o tribunal irlandês ou pode remeter a informação através das autoridades centrais.
+
+Parece-me que a ideia é dar a conhecer ao tribunal que tem pendente a ação de regulação do exercício das responsabilidades parentais a decisão de não regresso, com dois objetivos:
+1. Fomentar a comunicação entre tribunais e prover o tribunal que vai decidir sobre a regulação das responsabilidades parentais com informação que pode ser relevante (v.g. oposição da criança ao regresso ou avaliação, por outro tribunal, da situação de risco grave para a criança em caso de regresso); e
+2. Promover a possibilidade de decisão privilegiada que reverta a decisão de não regresso (arts. 29.º, n.º 6, e 42.º, n.º 1, alínea /b)/).
+
+/Pergunta aos formandos:/ o que sucede se a ação estiver pendente num tribunal de um Estado-Membro que /não é/ o da residência habitual da criança antes da deslocação ou retenção ilícitas (por exemplo, porque os progenitores fizeram um pacto de jurisdição, art. 10.º)?
+
+/Resposta:/ questão difícil, mas eu diria que aí não lugar a reconhecimento privilegiado; só há lugar a reconhecimento nos termos normais.
+
+Nos casos em que não esteja ainda pendente ação de regulação das responsabilidade parentais, o prazo alarga para /três meses/ e o quem deve informar e apresentar os documentos é a parte que instaurar a ação (art. 29.º, n.º 5).
+
+/Pergunta para os formandos:/ será que estamos perante um ónus ou não atendendo à redação do artigo 29.º, n.º 6? Se não for cumprido o art. 29.º, n.º 3 ou n.º 5, pode haver uma decisão em matéria de responsabilidades parentais que pode beneficiar do regime de reconhecimento e execução de decisões privilegiadas?
+
+#+begin_quote
+"Não obstante uma decisão a que se refere o n.º 1, *qualquer* decisão sobre o mérito do direito de guarda resultante dos processos referidos nos n.ºs 3 e 5 que implique o regresso da criança é executória noutro Estado-Membro, em conformidade com o capítulo IV." (negritos aditados)
+#+end_quote
+
+/Resposta:/ parece-me que a resposta definitiva se retira da conjugação do artigo 29.º, n.º 6 com o artigo 47.º, em particular com o seu n.º 4:
+
+#+begin_quote
+"Sem prejuízo do n.º 3 do presente artigo, a certidão para uma decisão a que se refere o artigo 42.º, n.º 1, alínea b), só é emitida se, na sua decisão, o tribunal tiver tido em conta os motivos e os factos em que assentava a decisão anterior proferida noutro Estado-Membro nos termos do artigo 13.º, primeiro parágrafo, alínea b), ou do artigo 13.º, segundo
+parágrafo, da Convenção de Haia de 1980."
+#+end_quote
+
+A luz destes dois preceitos eu diria que:
+1. A preterição dos prazos /não/ deve afetar a aplicação do regime; porém
+2. Se o tribunal da anterior residência habitual não for informado da decisão, ele não poderá tomar em conta os motivos e os factos em que assentava a decisão de não regresso e, como tal, não poderá emitir a certidão.
+
 *** (iii) O tribunal irlandês profere, em 13 de dezembro de 2022 e após ouvir *Ana*, *Benny*, *Charles* e *Diane*, uma decisão que atribui o direito de guarda em exclusivo a *Benny* e concede direitos de visita a *Ana*, fixando a residência habitual das crianças na Irlanda. Como pode esta decisão ser executada em Portugal?
+
+*24. Os dois caminhos possíveis: reconhecimento e execução normal ou reconhecimento e execução de decisões privilegiadas*.
+
+Regime de reconehcimento e execução normal das decisões em matéria de responsabilidades parentais (arts. 30.º e 34.º).
+
+Neste caso, há que atender aos fundamentos de recusa de reconhecimento e execução (art. 39.º) e ao artigo 56.º, n.º 6.
+
+O risco aqui era o de se entender que havia um fundamento de recusa assente na violação da ordem pública internacional do Estado Português, atento o superior interesse da criança, uma vez que se tinha previamente uma decisão de não regresso atendendo à oposição da criança.
+
+/Pergunta para os formandos:/ parece-vos que seria um caso de impedir a execução com fundamento na violação da ordem pública internacional?
+
+/Resposta:/ tenho imensas dúvidas.
+
+Em alternativa, e os caminhos são verdadeiramente alternativos, podendo a parte que requer o reconhecimento e execução escolher livremente qualquer um deles, pode adotar-se o regime de reconhecimento e execução das decisões privilegiadas.
+
+Chama-se a atenção para o artigo 47.º. A decisão irlandesa só pode seguir este caminho se (cf. artigo 47.º, n.º 3):
+1. tiver ouvido todas as partes implicadas (o que sucedeu);
+2. as crianças tiverem tido a oportunidade de expressar a sua opinião (o que sucedeu);
+3. a decisão não foi proferida a revelia (o caso da hipótese) ou sendo-o, a parte revel foi citada em tempo útil e de forma a poder deduzir a sua defesa ou aceitou a decisão de forma inequívoca;
+4. a decisão tiver tido em conta os motivos e factos em que assentava a decisão anterior de não regresso proferida pelo tribunal de outro Estado-Membro (não é dito na hipótese e disto depende a possibilidade de recorrer a este regime privilegiado).
+
+A grande diferença dos regimes está nos fundamentos de recusa: o reconhecimento da decisão privilegiada só pode ocorrer com fundamento em decisão /posterior incompatível/ em matéria de responsabilidade parental em relação à mesma criança (art. 50.º). Adicionalmente a execução pode ser suspensa ou recusada nos casos do artigo 56.º, n.º 4 e 6.
